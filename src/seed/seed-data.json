@@ -1,0 +1,4772 @@
+{
+  "products": [
+    {
+      "slug": "pour-over-coffee-set",
+      "name": "Glass Pour-Over Coffee Set",
+      "description": "A slow, calm morning ritual for the coffee lover who likes to take their time.",
+      "details": "Glass dripper, carafe and a gooseneck kettle that make brewing feel like a small ceremony. It's slower than a machine, but the coffee is smoother, and the whole set looks great left out on the counter.",
+      "price": {
+        "amount": 42,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=glass+pour+over+coffee+set",
+      "isSampleData": true,
+      "badge": "Editor's pick",
+      "audiences": [
+        "men",
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "coffee"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+        "alt": "Glass pour-over coffee maker and kettle on a dark counter"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+        "alt": "Two cups of coffee with latte art on a wooden table"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 1
+    },
+    {
+      "slug": "hand-poured-candle-duo",
+      "name": "Hand-Poured Candle Duo",
+      "description": "Two amber jar candles with warm, woody scents. An easy win for almost anyone.",
+      "details": "Two amber glass candles with warm cedar and vanilla notes. They burn clean and slow, and the jars are pretty enough to keep and reuse long after the wax is gone.",
+      "price": {
+        "amount": 28,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=amber+jar+soy+candle+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone",
+        "couples"
+      ],
+      "categories": [
+        "home"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7",
+        "alt": "Two lit candles in amber glass jars"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 2
+    },
+    {
+      "slug": "studio-headphones",
+      "name": "Retro Studio Headphones",
+      "description": "Over-ear headphones with a classic look and a comfortable, padded fit.",
+      "details": "Big, comfy cups, a padded headband and a classic studio look. Great for long playlists, podcasts or blocking out a noisy commute. A gift that gets used every single day.",
+      "price": {
+        "amount": 59,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=retro+over+ear+studio+headphones",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "everyone"
+      ],
+      "categories": [
+        "tech",
+        "music"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1583394838336-acd977736f90",
+        "alt": "Black over-ear headphones on a white background"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1484704849700-f032a568e944",
+        "alt": "Close-up of retro headphones resting on a table"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 3
+    },
+    {
+      "slug": "insulated-bottle",
+      "name": "Matte Insulated Bottle",
+      "description": "Keeps drinks cold all day. Looks good on a desk, in a bag or on a trail.",
+      "details": "Double-walled steel keeps drinks icy for a whole day or hot through the morning. The soft matte finish feels great in the hand and doesn't show fingerprints.",
+      "price": {
+        "amount": 24,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=matte+insulated+water+bottle",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "outdoors"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+        "alt": "A matte green insulated water bottle"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 4
+    },
+    {
+      "slug": "stoneware-cups",
+      "name": "Stoneware Cup Set",
+      "description": "Four small speckled cups for tea, espresso or a tiny succulent.",
+      "details": "Four little speckled cups, each slightly different because they're glazed in small batches. Perfect for espresso, tea, a tiny plant or a pinch of salt by the stove.",
+      "price": {
+        "amount": 32,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=stoneware+cup+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "coffee",
+        "home"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1610701596007-11502861dcfa",
+        "alt": "A set of cream stoneware cups on a shelf"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+        "alt": "Hands holding ceramic cups of coffee with latte art"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 5
+    },
+    {
+      "slug": "strategy-board-game",
+      "name": "World Map Strategy Game",
+      "description": "A game night favourite that gets the whole table plotting and laughing.",
+      "details": "Build alliances, plan your moves and claim the map. It's easy to learn, hard to master and perfect for game nights that run a little later than planned.",
+      "price": {
+        "amount": 38,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=world+map+strategy+board+game",
+      "isSampleData": true,
+      "badge": "Trending",
+      "audiences": [
+        "men",
+        "everyone",
+        "couples",
+        "kids"
+      ],
+      "categories": [
+        "games"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1606503153255-59d8b8b82176",
+        "alt": "Game pieces and dice spread across a map board game"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 6
+    },
+    {
+      "slug": "minimal-desk-lamp",
+      "name": "Minimal Desk Lamp",
+      "description": "A simple metal lamp that makes any desk look a little more grown up.",
+      "details": "A clean metal lamp with an adjustable head that points light exactly where it's needed. It makes a small desk feel more like a proper workspace.",
+      "price": {
+        "amount": 36,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=minimal+metal+desk+lamp",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "everyone"
+      ],
+      "categories": [
+        "home",
+        "paper"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+        "alt": "A grey metal desk lamp against a white wall"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 7
+    },
+    {
+      "slug": "leather-wallet",
+      "name": "Slim Leather Wallet",
+      "description": "Soft leather, slim profile, and room for the cards that matter.",
+      "details": "Slim enough for a front pocket but with room for the cards and cash that matter. Soft leather that gets better looking the longer it's carried.",
+      "price": {
+        "amount": 29,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=slim+leather+bifold+wallet",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men"
+      ],
+      "categories": [],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1627123424574-724758594e93",
+        "alt": "A brown leather wallet floating on a grey background"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 8
+    },
+    {
+      "slug": "mini-succulent",
+      "name": "Desk Succulent Planter",
+      "description": "A tiny bit of green for the friend who forgets to water plants.",
+      "details": "A tiny succulent in a glossy mint pot that brightens up any desk or windowsill. It only needs water every couple of weeks, so it's perfect for forgetful plant owners.",
+      "price": {
+        "amount": 16,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=ceramic+succulent+planter",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "plants"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1485955900006-10f4d324d411",
+        "alt": "A small succulent in a mint green pot"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 9
+    },
+    {
+      "slug": "quiet-wall-clock",
+      "name": "Silent Wall Clock",
+      "description": "No ticking, no fuss. A clean modern clock for kitchens and studies.",
+      "details": "A clean, modern clock with a silent sweeping movement, so there's no ticking in the background. It works in kitchens, studies and bedrooms alike.",
+      "price": {
+        "amount": 27,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=silent+modern+wall+clock",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone"
+      ],
+      "categories": [
+        "home"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c",
+        "alt": "A round white wall clock with black hands"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": true,
+      "position": 10
+    },
+    {
+      "slug": "craft-cocktail-kit",
+      "name": "Craft Cocktail Kit",
+      "description": "Everything needed to shake up bar-quality drinks at home, plus a few fancy garnishes.",
+      "details": "Shaker, jigger, strainer and a handful of recipe cards for classic drinks. Add the spirits and you've got a bar-quality evening at home.",
+      "price": {
+        "amount": 45,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=craft+cocktail+kit+gift",
+      "isSampleData": true,
+      "badge": "Bestseller",
+      "audiences": [
+        "men",
+        "couples",
+        "everyone"
+      ],
+      "categories": [
+        "drinks"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b",
+        "alt": "An amber cocktail with a rosemary sprig on a wooden board"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+        "alt": "A row of colourful cocktails on a bar"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 11
+    },
+    {
+      "slug": "whiskey-glass-set",
+      "name": "Heavy Whiskey Glasses",
+      "description": "Weighty crystal-style tumblers that make any pour feel like an occasion.",
+      "details": "Heavy-based tumblers with a satisfying weight in the hand. Made for slow pours, big ice cubes and the kind of evening that deserves a proper glass.",
+      "price": {
+        "amount": 34,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=heavy+whiskey+glasses+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "couples"
+      ],
+      "categories": [
+        "drinks"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
+        "alt": "A drink being poured over a large ice cube in a glass"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 12
+    },
+    {
+      "slug": "wine-glass-set",
+      "name": "Stemless Wine Glass Set",
+      "description": "Sturdy, elegant glasses for weeknight reds and weekend celebrations.",
+      "details": "Stemless glasses that are hard to knock over and easy to wash. Elegant enough for dinner parties, sturdy enough for the garden.",
+      "price": {
+        "amount": 30,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=stemless+wine+glass+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "couples",
+        "everyone"
+      ],
+      "categories": [
+        "drinks"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1474722883778-792e7990302f",
+        "alt": "A glass of red wine next to a bunch of grapes"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3",
+        "alt": "Friends raising glasses of red wine in a toast"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 13
+    },
+    {
+      "slug": "vinyl-record-crate",
+      "name": "Vinyl Record Storage Crate",
+      "description": "A sturdy wooden crate that shows off a growing record collection.",
+      "details": "A solid wooden crate that holds around 80 records and makes flipping through the collection half the fun. It looks just as good in a living room as a record shop.",
+      "price": {
+        "amount": 48,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=wooden+vinyl+record+storage+crate",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "music",
+        "home"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1461360228754-6e81c478b882",
+        "alt": "Rows of vinyl records in wooden crates"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1539375665275-f9de415ef9ac",
+        "alt": "Close-up of a spinning vinyl record"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 14
+    },
+    {
+      "slug": "retro-game-controller",
+      "name": "Wireless Retro Game Controller",
+      "description": "A comfy, colourful controller for long gaming sessions on the sofa.",
+      "details": "Wireless, comfortable and lit up in bold colours, this controller is made for long sessions on the sofa. Pairs with most consoles and PCs.",
+      "price": {
+        "amount": 35,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=wireless+game+controller",
+      "isSampleData": true,
+      "badge": "New",
+      "audiences": [
+        "men",
+        "kids",
+        "everyone"
+      ],
+      "categories": [
+        "tech",
+        "games"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf",
+        "alt": "A purple game controller lit by neon light"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+        "alt": "A retro gaming setup lit in pink and blue"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 15
+    },
+    {
+      "slug": "pop-up-tent",
+      "name": "Two-Person Pop-Up Tent",
+      "description": "Sets up in minutes for spontaneous weekends under the stars.",
+      "details": "Pops open in seconds and packs down small, so a spontaneous night outdoors is actually easy. Sleeps two with room for bags.",
+      "price": {
+        "amount": 89,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=two+person+pop+up+tent",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "couples"
+      ],
+      "categories": [
+        "outdoors"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4",
+        "alt": "View of a forest from inside an open tent"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d",
+        "alt": "Friends gathered around a campfire in the woods at night"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 16
+    },
+    {
+      "slug": "classic-leather-watch",
+      "name": "Classic Leather Strap Watch",
+      "description": "A timeless analog watch that goes with jeans and suits alike.",
+      "details": "A clean analog face on a soft leather strap that goes with everything from jeans to a suit. Timeless, easy to wear and made to last.",
+      "price": {
+        "amount": 79,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=classic+leather+strap+analog+watch",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men"
+      ],
+      "categories": [],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1524805444758-089113d48a6d",
+        "alt": "An analog watch with a brown leather strap"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 17
+    },
+    {
+      "slug": "minimal-white-watch",
+      "name": "Minimal White Watch",
+      "description": "Clean lines and a soft silicone strap for everyday wear.",
+      "details": "Soft silicone strap, a crisp white face and nothing fussy. A light, comfortable everyday watch that suits almost any style.",
+      "price": {
+        "amount": 55,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=minimal+white+watch",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "tech"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+        "alt": "A minimal white wristwatch on a white surface"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 18
+    },
+    {
+      "slug": "gold-chain-bracelet",
+      "name": "Chunky Gold Chain Bracelet",
+      "description": "A bold, gold-tone chain that dresses up any outfit.",
+      "details": "A bold, chunky chain in a warm gold tone. Wear it on its own as a statement or stack it with thinner bracelets.",
+      "price": {
+        "amount": 34,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=chunky+gold+chain+bracelet",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women"
+      ],
+      "categories": [
+        "jewelry"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a",
+        "alt": "A gold chain bracelet resting on a magazine"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 19
+    },
+    {
+      "slug": "rose-gold-bracelet",
+      "name": "Rose Gold Link Bracelet",
+      "description": "Delicate, sparkly and easy to wear every day.",
+      "details": "Delicate links with a little sparkle, finished in a soft rose gold. Easy to wear every day and pretty enough for special occasions.",
+      "price": {
+        "amount": 26,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=rose+gold+link+bracelet",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "couples"
+      ],
+      "categories": [
+        "jewelry"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a",
+        "alt": "A rose gold link bracelet on a pink background"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 20
+    },
+    {
+      "slug": "statement-drop-earrings",
+      "name": "Statement Drop Earrings",
+      "description": "Deep blue stones with a vintage feel. Made for nights out.",
+      "details": "Deep blue stones framed in vintage-style metalwork. They catch the light beautifully and turn a simple outfit into a look.",
+      "price": {
+        "amount": 39,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=blue+statement+drop+earrings",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women"
+      ],
+      "categories": [
+        "jewelry"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908",
+        "alt": "A pair of blue statement earrings on a green leaf"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 21
+    },
+    {
+      "slug": "pendant-necklace",
+      "name": "Gemstone Pendant Necklace",
+      "description": "A fine chain with a small coloured stone that catches the light.",
+      "details": "A fine chain with a small coloured stone that sits just right at the collarbone. Subtle enough for every day, special enough to feel like a gift.",
+      "price": {
+        "amount": 31,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=gemstone+pendant+necklace",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "couples"
+      ],
+      "categories": [
+        "jewelry"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f",
+        "alt": "A gold necklace with a small blue gemstone pendant"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 22
+    },
+    {
+      "slug": "cashmere-candle",
+      "name": "Cashmere Scented Candle",
+      "description": "Soft, warm and cosy. Perfect for slow evenings in.",
+      "details": "A soft, cosy scent that smells like a favourite jumper. Light it on a slow evening and the whole room feels calmer.",
+      "price": {
+        "amount": 22,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=cashmere+scented+candle",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "home",
+        "selfcare"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1603006905003-be475563bc59",
+        "alt": "A lit candle in a glass jar on a fur throw"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 23
+    },
+    {
+      "slug": "botanical-self-care-set",
+      "name": "Botanical Self-Care Set",
+      "description": "Oils, balms and bath stones for a proper night off.",
+      "details": "Face oil, balm and bath stones in a beautiful gift box. Everything needed for a proper night off, with no planning required.",
+      "price": {
+        "amount": 48,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=botanical+self+care+gift+set",
+      "isSampleData": true,
+      "badge": "Bestseller",
+      "audiences": [
+        "women"
+      ],
+      "categories": [
+        "selfcare"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1612817288484-6f916006741a",
+        "alt": "Skincare bottles and stones arranged on a white surface"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 24
+    },
+    {
+      "slug": "makeup-brush-set",
+      "name": "Blush Pink Makeup Brush Set",
+      "description": "Soft brushes in a pretty pink finish. Great value for a small gift.",
+      "details": "A full set of soft brushes in a pretty blush finish. Great for beginners and makeup lovers alike, and excellent value for a small gift.",
+      "price": {
+        "amount": 19,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=pink+makeup+brush+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women"
+      ],
+      "categories": [
+        "selfcare"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+        "alt": "Pink makeup brushes and powder on a beige background"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 25
+    },
+    {
+      "slug": "chocolate-truffles",
+      "name": "Handmade Chocolate Truffles",
+      "description": "Rich, small-batch truffles in a gift-ready box.",
+      "details": "Rich, silky truffles made in small batches and packed in a gift-ready box. A sweet treat that feels far more special than a supermarket bar.",
+      "price": {
+        "amount": 29,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=handmade+chocolate+truffles+gift+box",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone",
+        "women",
+        "couples"
+      ],
+      "categories": [
+        "food"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1549007994-cb92caebd54b",
+        "alt": "Rows of round chocolate truffles"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 26
+    },
+    {
+      "slug": "cookie-tin",
+      "name": "Chocolate Chip Cookie Tin",
+      "description": "Big, chewy cookies packed in a tin worth keeping.",
+      "details": "Big, chewy chocolate chip cookies packed in a tin worth keeping. Perfect for sharing, or for not sharing at all.",
+      "price": {
+        "amount": 24,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=chocolate+chip+cookie+gift+tin",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone",
+        "kids"
+      ],
+      "categories": [
+        "food"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35",
+        "alt": "A basket of chocolate chip cookies"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 27
+    },
+    {
+      "slug": "afternoon-tea-set",
+      "name": "Afternoon Tea Gift Set",
+      "description": "Loose-leaf tea and buttery biscuits for a slow afternoon.",
+      "details": "Loose-leaf tea and buttery biscuits for a slow, cosy afternoon. A lovely little care package for someone who deserves a break.",
+      "price": {
+        "amount": 27,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=afternoon+tea+gift+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone"
+      ],
+      "categories": [
+        "coffee",
+        "food"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1544787219-7f47ccb76574",
+        "alt": "A cup of tea with cookies on a saucer"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 28
+    },
+    {
+      "slug": "linen-notebook",
+      "name": "Linen Hardcover Notebook",
+      "description": "Thick, smooth pages for ideas, lists and late-night thoughts.",
+      "details": "Thick, smooth pages bound in a linen hardcover that feels lovely in the hand. Made for lists, sketches, journaling and big ideas.",
+      "price": {
+        "amount": 18,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=linen+hardcover+notebook",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone",
+        "men",
+        "women"
+      ],
+      "categories": [
+        "paper"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1517842645767-c639042777db",
+        "alt": "An open notebook with a fountain pen and glasses"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
+        "alt": "A hand writing in an open notebook next to a coffee"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 29
+    },
+    {
+      "slug": "canvas-tote",
+      "name": "Everyday Canvas Tote",
+      "description": "A sturdy, simple tote for the market, the beach or the office.",
+      "details": "A sturdy, simple tote that's big enough for groceries, a laptop or a day at the beach. The kind of bag that ends up going everywhere.",
+      "price": {
+        "amount": 15,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=canvas+tote+bag",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "women",
+        "everyone"
+      ],
+      "categories": [],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1544816155-12df9643f363",
+        "alt": "A plain canvas tote bag hanging on a wall"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 30
+    },
+    {
+      "slug": "wooden-train-set",
+      "name": "Wooden Train Set",
+      "description": "A classic wooden railway with bridges, signals and lots of track.",
+      "details": "A classic wooden railway with bridges, signals and plenty of track to build and rebuild. Made to be played with for years and passed down.",
+      "price": {
+        "amount": 44,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=wooden+train+set+kids",
+      "isSampleData": true,
+      "badge": "Bestseller",
+      "audiences": [
+        "kids"
+      ],
+      "categories": [
+        "toys"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1",
+        "alt": "A wooden toy train on a wooden track"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 31
+    },
+    {
+      "slug": "tin-robot-collection",
+      "name": "Vintage-Style Toy Robots",
+      "description": "Colourful wind-up robots that look great on a shelf and even better on the floor.",
+      "details": "A crowd of colourful, vintage-style toy robots. They look brilliant lined up on a shelf, and even better marching across the floor.",
+      "price": {
+        "amount": 33,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=vintage+wind+up+toy+robots",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "kids",
+        "men"
+      ],
+      "categories": [
+        "toys",
+        "games"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1558060370-d644479cb6f7",
+        "alt": "A crowd of colourful toy robots and figures"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 32
+    },
+    {
+      "slug": "building-bricks",
+      "name": "Creative Building Bricks",
+      "description": "A big tub of colourful bricks for builders of every age.",
+      "details": "A big tub of colourful bricks with endless ways to build. Great for kids, and secretly great for grown-ups too.",
+      "price": {
+        "amount": 25,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=building+bricks+set",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "kids"
+      ],
+      "categories": [
+        "toys",
+        "games"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1587654780291-39c9404d746b",
+        "alt": "A pile of colourful plastic building bricks"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 33
+    },
+    {
+      "slug": "commuter-backpack",
+      "name": "Minimal Commuter Backpack",
+      "description": "A clean, water-resistant backpack with a padded laptop sleeve.",
+      "details": "Clean lines, water-resistant fabric and a padded laptop sleeve. Smart enough for the office and tough enough for weekend trips.",
+      "price": {
+        "amount": 49,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=minimal+commuter+backpack",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "everyone"
+      ],
+      "categories": [
+        "tech",
+        "outdoors"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+        "alt": "A navy backpack against a white wall"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 34
+    },
+    {
+      "slug": "big-morning-mug",
+      "name": "Big Morning Mug",
+      "description": "A generous, simple mug for people who need more than one cup.",
+      "details": "A generous, no-nonsense mug for people who need more than one cup to get going. Simple, solid and dishwasher safe.",
+      "price": {
+        "amount": 14,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=large+ceramic+coffee+mug",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone"
+      ],
+      "categories": [
+        "coffee"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d",
+        "alt": "A plain white mug on a white table"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd",
+        "alt": "Top view of a mug of coffee on a wooden table"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 35
+    },
+    {
+      "slug": "terracotta-cactus",
+      "name": "Terracotta Cactus Planter",
+      "description": "A cheerful little cactus that's very hard to kill.",
+      "details": "A cheerful little cactus in a classic terracotta pot. It thrives on sunshine and neglect, and with a bit of luck it might even flower.",
+      "price": {
+        "amount": 12,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=terracotta+cactus+planter",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone",
+        "women"
+      ],
+      "categories": [
+        "plants"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a",
+        "alt": "A small cactus in a terracotta pot"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+      },
+      "trending": false,
+      "position": 36
+    },
+    {
+      "slug": "swivel-reading-chair",
+      "name": "Swivel Reading Chair",
+      "description": "A soft, modern armchair for the reading corner they've always wanted.",
+      "details": "A soft, modern armchair that swivels towards the window, the fire or the conversation. The reading corner they've always wanted.",
+      "price": {
+        "amount": 189,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=swivel+reading+accent+chair",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "couples",
+        "everyone"
+      ],
+      "categories": [
+        "home"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8",
+        "alt": "A beige upholstered swivel chair"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 37
+    },
+    {
+      "slug": "retro-mini-fridge",
+      "name": "Mini Retro Drinks Fridge",
+      "description": "A pastel mini fridge for cold drinks in the den, office or garage.",
+      "details": "A pastel retro fridge that keeps drinks cold in the den, office or garage. Fun to look at and genuinely useful.",
+      "price": {
+        "amount": 129,
+        "currency": "USD"
+      },
+      "retailer": "amazon",
+      "affiliateUrl": "https://www.amazon.com/s?k=retro+mini+fridge",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "men",
+        "couples"
+      ],
+      "categories": [
+        "drinks",
+        "home"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5",
+        "alt": "A mint green retro mini fridge next to plants"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 38
+    },
+    {
+      "slug": "chocolate-bark-box",
+      "name": "Chocolate Bark Gift Box",
+      "description": "Thick chocolate bark loaded with nuts and fruit. Very shareable.",
+      "details": "Thick slabs of chocolate bark loaded with nuts and fruit. Break off a piece, pass it round, repeat.",
+      "price": {
+        "amount": 21,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=chocolate+bark+gift+box",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone"
+      ],
+      "categories": [
+        "food"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52",
+        "alt": "A stack of chocolate bark pieces with nuts"
+      },
+      "altImage": {
+        "src": "https://images.unsplash.com/photo-1511381939415-e44015466834",
+        "alt": "Broken pieces of dark chocolate on a white surface"
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 39
+    },
+    {
+      "slug": "foldable-headphones",
+      "name": "Foldable Wireless Headphones",
+      "description": "Light, foldable and easy to throw in a bag. Bright colours available.",
+      "details": "Light, foldable and comfortable, with wireless sound and a battery that lasts all week. Easy to throw in a bag on the way out the door.",
+      "price": {
+        "amount": 45,
+        "currency": "USD"
+      },
+      "retailer": "temu",
+      "affiliateUrl": "https://www.temu.com/search_result.html?search_key=foldable+wireless+headphones",
+      "isSampleData": true,
+      "badge": "",
+      "audiences": [
+        "everyone",
+        "kids"
+      ],
+      "categories": [
+        "tech",
+        "music"
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+        "alt": "Black headphones on a bright yellow background"
+      },
+      "altImage": {
+        "src": "",
+        "alt": ""
+      },
+      "video": {
+        "src": ""
+      },
+      "trending": false,
+      "position": 40
+    }
+  ],
+  "categories": [
+    {
+      "slug": "coffee",
+      "label": "coffee & tea",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+        "alt": "Cups of latte on a wooden table"
+      },
+      "position": 1
+    },
+    {
+      "slug": "tech",
+      "label": "tech & gadgets",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1498049794561-7780e7231661",
+        "alt": "Headphones, a phone and a watch on a desk"
+      },
+      "position": 2
+    },
+    {
+      "slug": "outdoors",
+      "label": "outdoors",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4",
+        "alt": "View of a forest from inside a tent"
+      },
+      "position": 3
+    },
+    {
+      "slug": "drinks",
+      "label": "cocktails & wine",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b",
+        "alt": "A cocktail with a rosemary sprig"
+      },
+      "position": 4
+    },
+    {
+      "slug": "music",
+      "label": "music",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1539375665275-f9de415ef9ac",
+        "alt": "Close-up of a spinning vinyl record"
+      },
+      "position": 5
+    },
+    {
+      "slug": "games",
+      "label": "games & puzzles",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1606503153255-59d8b8b82176",
+        "alt": "Board game pieces on a map"
+      },
+      "position": 6
+    },
+    {
+      "slug": "home",
+      "label": "cozy home",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1603006905003-be475563bc59",
+        "alt": "A lit candle on a soft fur throw"
+      },
+      "position": 7
+    },
+    {
+      "slug": "selfcare",
+      "label": "self-care",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1612817288484-6f916006741a",
+        "alt": "Skincare bottles with stones and greenery"
+      },
+      "position": 8
+    },
+    {
+      "slug": "jewelry",
+      "label": "jewelry",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a",
+        "alt": "A rose gold bracelet on a pink background"
+      },
+      "position": 9
+    },
+    {
+      "slug": "food",
+      "label": "sweet treats",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1549007994-cb92caebd54b",
+        "alt": "Rows of chocolate truffles"
+      },
+      "position": 10
+    },
+    {
+      "slug": "paper",
+      "label": "desk & journals",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1517842645767-c639042777db",
+        "alt": "A notebook and fountain pen"
+      },
+      "position": 11
+    },
+    {
+      "slug": "plants",
+      "label": "plants",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a",
+        "alt": "A small cactus in a terracotta pot"
+      },
+      "position": 12
+    },
+    {
+      "slug": "toys",
+      "label": "toys",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1",
+        "alt": "A wooden toy train set"
+      },
+      "position": 13
+    }
+  ],
+  "pages": [
+    {
+      "section": "gifts",
+      "slug": "for-dad",
+      "label": "Dad",
+      "title": "gifts for dad",
+      "tagline": "For the dad who says he doesn't need anything.",
+      "about": "Dads are famously hard to buy for. They either want nothing or buy everything themselves the moment they think of it. We look for gifts that give him a new ritual, a good story or a small upgrade he'd never treat himself to: better coffee, a proper whiskey glass, a game for family night.",
+      "rule": {
+        "audiences": [
+          "men",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "coffee",
+        "drinks",
+        "tech",
+        "outdoors",
+        "music",
+        "games"
+      ],
+      "related": [
+        "for-mom",
+        "for-husband",
+        "for-him",
+        "has-everything"
+      ],
+      "guideId": "christmas-gifts-for-dad",
+      "feature": {
+        "headline": "Gifts for the dad who says he wants nothing",
+        "highlight": "nothing",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7",
+          "alt": "Friends relaxing outside a vintage silver camper at dusk"
+        },
+        "intro": [
+          "Every dad says he doesn't need anything. Then he unwraps a proper ",
+          {
+            "label": "whiskey glass set",
+            "href": "/unique-finds/home"
+          },
+          " or a pour-over coffee kit and uses it every single day. We look for gifts that give him a new ritual, a good story or a small upgrade he'd never treat himself to. Whether he's ",
+          {
+            "label": "the guy who already has everything",
+            "href": "/gifts/has-everything"
+          },
+          ", a weekend adventurer or a gadget tinkerer, start here, or jump to ",
+          {
+            "label": "Father's Day",
+            "href": "/occasions/fathers-day"
+          },
+          ", ",
+          {
+            "label": "birthday gifts",
+            "href": "/occasions/birthdays"
+          },
+          " and ",
+          {
+            "label": "stocking stuffers under $25",
+            "href": "/discover/under-25"
+          },
+          ". Shopping for the whole family? See our ",
+          {
+            "label": "gifts for mom",
+            "href": "/gifts/for-mom"
+          },
+          " too."
+        ]
+      },
+      "position": 1
+    },
+    {
+      "section": "gifts",
+      "slug": "for-mom",
+      "label": "Mom",
+      "title": "gifts for mom",
+      "tagline": "Because she deserves more than another candle. (But also, candles.)",
+      "about": "The best gifts for mom are the ones that make her slow down: a proper night off, something lovely for the home, a piece of jewelry she'll actually wear. We pick gifts that feel thoughtful without feeling fussy.",
+      "rule": {
+        "audiences": [
+          "women",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "selfcare",
+        "home",
+        "jewelry",
+        "coffee",
+        "plants",
+        "food"
+      ],
+      "related": [
+        "for-dad",
+        "for-wife",
+        "for-her",
+        "has-everything"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Gifts for mom that feel like a hug",
+        "highlight": "hug",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1531983412531-1f49a365ffed",
+          "alt": "A mother laughing and hugging her young son on a sunny beach"
+        },
+        "intro": [
+          "She's the one who remembers everyone else's birthday, so make this one count. We look for gifts that help mom slow down: a proper ",
+          {
+            "label": "night of self-care",
+            "href": "/unique-finds/home"
+          },
+          ", something lovely for the home, or a piece of jewelry she'll actually wear. Planning ahead for ",
+          {
+            "label": "Mother's Day",
+            "href": "/occasions/mothers-day"
+          },
+          " or her ",
+          {
+            "label": "birthday",
+            "href": "/occasions/birthdays"
+          },
+          "? You'll find plenty here, including ",
+          {
+            "label": "small gifts under $25",
+            "href": "/discover/under-25"
+          },
+          ". And if dad's next on the list, head over to ",
+          {
+            "label": "gifts for dad",
+            "href": "/gifts/for-dad"
+          },
+          "."
+        ]
+      },
+      "position": 2
+    },
+    {
+      "section": "gifts",
+      "slug": "for-him",
+      "label": "Him",
+      "title": "gifts for him",
+      "tagline": "Clever, useful and a little bit unexpected.",
+      "about": "Whether he's into gadgets, the great outdoors or a good drink at the end of the day, these are gifts he'll use, show off and probably not have thought to buy himself.",
+      "rule": {
+        "audiences": [
+          "men",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "tech",
+        "drinks",
+        "outdoors",
+        "music",
+        "coffee",
+        "games"
+      ],
+      "related": [
+        "for-dad",
+        "for-boyfriend",
+        "for-husband",
+        "for-her"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Gifts for men he'll actually want",
+        "highlight": "actually",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1551632811-561732d1e306",
+          "alt": "Two hikers with backpacks walking a trail towards snowy mountains"
+        },
+        "intro": [
+          "Buying for men is hard, especially ",
+          {
+            "label": "the guy who already has everything",
+            "href": "/gifts/has-everything"
+          },
+          ". So we skipped the socks and went looking for the good stuff: ",
+          {
+            "label": "clever gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          ", better coffee, proper whiskey glasses and gear for weekends outdoors. Whether he's your ",
+          {
+            "label": "dad",
+            "href": "/gifts/for-dad"
+          },
+          ", ",
+          {
+            "label": "husband",
+            "href": "/gifts/for-husband"
+          },
+          ", ",
+          {
+            "label": "boyfriend",
+            "href": "/gifts/for-boyfriend"
+          },
+          " or your oldest mate, there's something here he'll use, show off and never think to buy himself. Got an occasion coming up? Start with our ",
+          {
+            "label": "birthday gifts",
+            "href": "/occasions/birthdays"
+          },
+          ", ",
+          {
+            "label": "Christmas ideas",
+            "href": "/occasions/christmas"
+          },
+          " or ",
+          {
+            "label": "stocking stuffers under $25",
+            "href": "/discover/under-25"
+          },
+          "."
+        ]
+      },
+      "position": 3
+    },
+    {
+      "section": "gifts",
+      "slug": "for-her",
+      "label": "Her",
+      "title": "gifts for her",
+      "tagline": "Pretty, practical and properly thoughtful.",
+      "about": "From everyday jewelry to slow-evening self-care, these gifts are chosen to feel personal. Little luxuries she'll reach for again and again.",
+      "rule": {
+        "audiences": [
+          "women",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "jewelry",
+        "selfcare",
+        "home",
+        "coffee",
+        "plants",
+        "food"
+      ],
+      "related": [
+        "for-mom",
+        "for-girlfriend",
+        "for-wife",
+        "for-him"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Gifts for her she'll love opening",
+        "highlight": "love",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1530021232320-687d8e3dba54",
+          "alt": "A woman with wavy hair smiling beside a glowing neon sign"
+        },
+        "intro": [
+          "Whether she's into slow mornings, statement earrings or ",
+          {
+            "label": "cosy nights in",
+            "href": "/unique-finds/home"
+          },
+          ", the best gifts for her feel personal, not generic. We pick little luxuries she'll reach for again and again. Shopping for someone specific? We have edits for your ",
+          {
+            "label": "girlfriend",
+            "href": "/gifts/for-girlfriend"
+          },
+          ", ",
+          {
+            "label": "wife",
+            "href": "/gifts/for-wife"
+          },
+          " and ",
+          {
+            "label": "mom",
+            "href": "/gifts/for-mom"
+          },
+          ", plus ideas for ",
+          {
+            "label": "birthdays",
+            "href": "/occasions/birthdays"
+          },
+          ", ",
+          {
+            "label": "Valentine's Day",
+            "href": "/occasions/valentines-day"
+          },
+          " and ",
+          {
+            "label": "gifts under $50",
+            "href": "/discover/under-50"
+          },
+          "."
+        ]
+      },
+      "position": 4
+    },
+    {
+      "section": "gifts",
+      "slug": "for-boyfriend",
+      "label": "Boyfriend",
+      "title": "gifts for your boyfriend",
+      "tagline": "Thoughtful enough to impress. Fun enough to actually use.",
+      "about": "The sweet spot for a boyfriend gift is something personal but not too serious. Think a game for two, a cocktail kit for date night, or a gadget he'll be quietly delighted by.",
+      "rule": {
+        "audiences": [
+          "men",
+          "couples",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "tech",
+        "games",
+        "drinks",
+        "music",
+        "outdoors",
+        "coffee"
+      ],
+      "related": [
+        "for-girlfriend",
+        "for-husband",
+        "for-him",
+        "for-couples"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Gifts your boyfriend will brag about",
+        "highlight": "brag",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954",
+          "alt": "A couple riding bikes and holding hands against a sunset sky"
+        },
+        "intro": [
+          "The sweet spot for a boyfriend gift is personal but not too serious. Think a game for two, a cocktail kit for date night, or one of our ",
+          {
+            "label": "clever gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          " he'll be quietly delighted by. Celebrating something? Browse ",
+          {
+            "label": "anniversary",
+            "href": "/occasions/anniversaries"
+          },
+          " and ",
+          {
+            "label": "Valentine's Day",
+            "href": "/occasions/valentines-day"
+          },
+          " ideas, or keep it light with ",
+          {
+            "label": "funny gifts",
+            "href": "/unique-finds/funny"
+          },
+          ". Still stuck? Try our wider edit of ",
+          {
+            "label": "gifts for him",
+            "href": "/gifts/for-him"
+          },
+          " or ",
+          {
+            "label": "gifts for couples",
+            "href": "/gifts/for-couples"
+          },
+          "."
+        ]
+      },
+      "position": 5
+    },
+    {
+      "section": "gifts",
+      "slug": "for-girlfriend",
+      "label": "Girlfriend",
+      "title": "gifts for your girlfriend",
+      "tagline": "Little luxuries that say you've been paying attention.",
+      "about": "Pick something that matches her taste, not just the occasion. Delicate jewelry, a cosy night in or a treat she'd never buy herself all land well.",
+      "rule": {
+        "audiences": [
+          "women",
+          "couples",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "jewelry",
+        "selfcare",
+        "home",
+        "food",
+        "plants",
+        "coffee"
+      ],
+      "related": [
+        "for-boyfriend",
+        "for-wife",
+        "for-her",
+        "for-couples"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Gifts for your girlfriend that say you listened",
+        "highlight": "listened",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2",
+          "alt": "Two hands making a heart shape against a golden sunset"
+        },
+        "intro": [
+          "The best gift for your girlfriend proves you've been paying attention. Delicate jewelry, a ",
+          {
+            "label": "cosy night in",
+            "href": "/unique-finds/home"
+          },
+          " or a treat she'd never buy herself all land well. Marking a milestone? Our ",
+          {
+            "label": "anniversary",
+            "href": "/occasions/anniversaries"
+          },
+          " and ",
+          {
+            "label": "Valentine's Day",
+            "href": "/occasions/valentines-day"
+          },
+          " ideas are a great start, and our ",
+          {
+            "label": "gifts under $50",
+            "href": "/discover/under-50"
+          },
+          " keep things thoughtful without going overboard. Want more ideas? Browse ",
+          {
+            "label": "gifts for her",
+            "href": "/gifts/for-her"
+          },
+          " or ",
+          {
+            "label": "gifts for couples",
+            "href": "/gifts/for-couples"
+          },
+          "."
+        ]
+      },
+      "position": 6
+    },
+    {
+      "section": "gifts",
+      "slug": "for-husband",
+      "label": "Husband",
+      "title": "gifts for your husband",
+      "tagline": "For the man who's been there for all of it.",
+      "about": "After a few years together the obvious ideas are taken. Go for shared experiences, a better version of something he uses daily, or a fun upgrade to his favourite hobby.",
+      "rule": {
+        "audiences": [
+          "men",
+          "couples",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "drinks",
+        "coffee",
+        "tech",
+        "outdoors",
+        "music",
+        "home"
+      ],
+      "related": [
+        "for-wife",
+        "for-dad",
+        "for-him",
+        "for-couples"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "Gifts your husband will be surprised by",
+        "highlight": "surprised",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc",
+          "alt": "A bride and groom celebrating outdoors with balloons and guests"
+        },
+        "intro": [
+          "After a few years together, the obvious ideas are taken. So go for something he'd never expect: a shared experience, a better version of something he uses daily, or a fun upgrade to his favourite hobby. Celebrating your ",
+          {
+            "label": "anniversary",
+            "href": "/occasions/anniversaries"
+          },
+          " or his ",
+          {
+            "label": "birthday",
+            "href": "/occasions/birthdays"
+          },
+          "? Start here. If he's truly ",
+          {
+            "label": "the man who has everything",
+            "href": "/gifts/has-everything"
+          },
+          ", we've got a whole edit for that, plus more ideas in ",
+          {
+            "label": "gifts for him",
+            "href": "/gifts/for-him"
+          },
+          " and ",
+          {
+            "label": "gifts for dad",
+            "href": "/gifts/for-dad"
+          },
+          "."
+        ]
+      },
+      "position": 7
+    },
+    {
+      "section": "gifts",
+      "slug": "for-wife",
+      "label": "Wife",
+      "title": "gifts for your wife",
+      "tagline": "Something lovely, just for her.",
+      "about": "The best gifts for a wife feel personal and a little indulgent: jewelry for everyday, a home upgrade you'll both enjoy, or a proper evening off.",
+      "rule": {
+        "audiences": [
+          "women",
+          "couples",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "jewelry",
+        "selfcare",
+        "home",
+        "coffee",
+        "food",
+        "plants"
+      ],
+      "related": [
+        "for-husband",
+        "for-mom",
+        "for-her",
+        "for-couples"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Gifts for your wife, just because",
+        "highlight": "just because",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1519741497674-611481863552",
+          "alt": "A bride holding a bouquet of white flowers in soft golden light"
+        },
+        "intro": [
+          "You don't need an occasion to spoil her, but it helps to have ideas. The best gifts for your wife feel personal and a little indulgent: everyday jewelry, a ",
+          {
+            "label": "home upgrade",
+            "href": "/unique-finds/home"
+          },
+          " you'll both enjoy, or a proper evening off. Planning for your ",
+          {
+            "label": "anniversary",
+            "href": "/occasions/anniversaries"
+          },
+          ", ",
+          {
+            "label": "Valentine's Day",
+            "href": "/occasions/valentines-day"
+          },
+          " or ",
+          {
+            "label": "Mother's Day",
+            "href": "/occasions/mothers-day"
+          },
+          "? You're in the right place. Find more in ",
+          {
+            "label": "gifts for her",
+            "href": "/gifts/for-her"
+          },
+          " and ",
+          {
+            "label": "gifts for couples",
+            "href": "/gifts/for-couples"
+          },
+          "."
+        ]
+      },
+      "position": 8
+    },
+    {
+      "section": "gifts",
+      "slug": "for-friends",
+      "label": "Friends",
+      "title": "gifts for friends",
+      "tagline": "For the people who know you best.",
+      "about": "Friend gifts should be fun, easy to give and a little bit personal. Sweet treats, game night extras and cosy things for the home are always a safe bet.",
+      "rule": {
+        "audiences": [
+          "everyone",
+          "women",
+          "men"
+        ]
+      },
+      "interests": [
+        "games",
+        "food",
+        "coffee",
+        "home",
+        "plants",
+        "drinks"
+      ],
+      "related": [
+        "for-couples",
+        "for-her",
+        "for-him",
+        "has-everything"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Gifts for friends who get you",
+        "highlight": "get you",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
+          "alt": "A group of friends sitting arm in arm looking out over the sea"
+        },
+        "intro": [
+          "Friend gifts should be fun, easy to give and a little bit personal. Sweet treats, game night extras and ",
+          {
+            "label": "cosy things for the home",
+            "href": "/unique-finds/home"
+          },
+          " are always a safe bet, and our ",
+          {
+            "label": "funny gifts",
+            "href": "/unique-finds/funny"
+          },
+          " are guaranteed to get a laugh. Doing ",
+          {
+            "label": "Secret Santa",
+            "href": "/occasions/secret-santa"
+          },
+          "? Head straight for ",
+          {
+            "label": "gifts under $25",
+            "href": "/discover/under-25"
+          },
+          ". For the friend who already owns it all, try ",
+          {
+            "label": "gifts for someone who has everything",
+            "href": "/gifts/has-everything"
+          },
+          "."
+        ]
+      },
+      "position": 9
+    },
+    {
+      "section": "gifts",
+      "slug": "for-couples",
+      "label": "Couples",
+      "title": "gifts for couples",
+      "tagline": "Gifts made for two.",
+      "about": "Couples gifts work best when they create a shared moment: a cocktail night, a game to play together, or something beautiful for their home.",
+      "rule": {
+        "audiences": [
+          "couples",
+          "everyone"
+        ]
+      },
+      "interests": [
+        "drinks",
+        "games",
+        "home",
+        "food",
+        "coffee",
+        "outdoors"
+      ],
+      "related": [
+        "for-friends",
+        "for-husband",
+        "for-wife",
+        "has-everything"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Gifts for couples to enjoy together",
+        "highlight": "together",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+          "alt": "A couple laughing while cooking together in a bright kitchen"
+        },
+        "intro": [
+          "The best couples gifts create a shared moment: a cocktail night, a game to play together or something beautiful for their home. Perfect for ",
+          {
+            "label": "weddings",
+            "href": "/occasions/weddings"
+          },
+          ", ",
+          {
+            "label": "anniversaries",
+            "href": "/occasions/anniversaries"
+          },
+          ", housewarmings and the holidays. Shopping for just one of them? Browse ",
+          {
+            "label": "gifts for your husband",
+            "href": "/gifts/for-husband"
+          },
+          " or ",
+          {
+            "label": "gifts for your wife",
+            "href": "/gifts/for-wife"
+          },
+          ", or find something easy in ",
+          {
+            "label": "gifts under $50",
+            "href": "/discover/under-50"
+          },
+          "."
+        ]
+      },
+      "position": 10
+    },
+    {
+      "section": "gifts",
+      "slug": "for-kids",
+      "label": "Kids",
+      "title": "gifts for kids",
+      "tagline": "Toys and treats that beat the screen (most of the time).",
+      "about": "We look for toys that spark imagination and last longer than a week: building sets, classic wooden toys, and games the whole family can play.",
+      "rule": {
+        "audiences": [
+          "kids"
+        ]
+      },
+      "interests": [
+        "toys",
+        "games",
+        "tech",
+        "food",
+        "music"
+      ],
+      "related": [
+        "for-dad",
+        "for-mom",
+        "for-friends",
+        "for-couples"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Gifts for kids that beat screen time",
+        "highlight": "beat",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9",
+          "alt": "A smiling young girl with paint on her face and a yellow bow in her hair"
+        },
+        "intro": [
+          "We look for toys that spark imagination and last longer than a week: building sets, classic wooden toys and games the whole family can play. Shopping for a ",
+          {
+            "label": "birthday",
+            "href": "/occasions/birthdays"
+          },
+          " or ",
+          {
+            "label": "Christmas",
+            "href": "/occasions/christmas"
+          },
+          "? Start here, or keep it small with ",
+          {
+            "label": "stocking stuffers under $25",
+            "href": "/discover/under-25"
+          },
+          ". And don't forget the grown-ups: we've got ",
+          {
+            "label": "gifts for mom",
+            "href": "/gifts/for-mom"
+          },
+          " and ",
+          {
+            "label": "gifts for dad",
+            "href": "/gifts/for-dad"
+          },
+          " too."
+        ]
+      },
+      "position": 11
+    },
+    {
+      "section": "gifts",
+      "slug": "has-everything",
+      "label": "Someone Who Has Everything",
+      "title": "gifts for someone who has everything",
+      "tagline": "For the impossible-to-buy-for. Challenge accepted.",
+      "about": "When someone already owns it all, the trick is to give a feeling instead of a thing: a new hobby, a small luxury, or something so unusual they'd never think to buy it.",
+      "rule": {
+        "audiences": [
+          "everyone",
+          "men",
+          "women",
+          "couples"
+        ]
+      },
+      "interests": [
+        "tech",
+        "drinks",
+        "home",
+        "music",
+        "games",
+        "food"
+      ],
+      "related": [
+        "for-dad",
+        "for-mom",
+        "for-husband",
+        "for-wife"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "Gifts for someone who has everything (yes, really)",
+        "highlight": "really",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a",
+          "alt": "A pile of wrapped presents with red paper and white string"
+        },
+        "intro": [
+          "When someone already owns it all, give a feeling instead of a thing: a new hobby, a small luxury or something so unusual they'd never think to buy it. Our ",
+          {
+            "label": "clever gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          " and ",
+          {
+            "label": "funny gifts",
+            "href": "/unique-finds/funny"
+          },
+          " are a great place to start. Know who it's for? We've got edits for the impossible ",
+          {
+            "label": "dad",
+            "href": "/gifts/for-dad"
+          },
+          ", ",
+          {
+            "label": "mom",
+            "href": "/gifts/for-mom"
+          },
+          " and ",
+          {
+            "label": "husband",
+            "href": "/gifts/for-husband"
+          },
+          ", plus ideas for ",
+          {
+            "label": "birthdays",
+            "href": "/occasions/birthdays"
+          },
+          " and ",
+          {
+            "label": "Christmas",
+            "href": "/occasions/christmas"
+          },
+          "."
+        ]
+      },
+      "position": 12
+    },
+    {
+      "section": "occasions",
+      "slug": "christmas",
+      "label": "Christmas",
+      "title": "christmas gifts",
+      "metaTitle": "Unique Christmas Gifts",
+      "tagline": "The big one. Start early, finish smug.",
+      "about": "A great Christmas gift feels a little bit magic: something they'd never buy themselves, wrapped up for the one morning a year everyone's together. We pick gifts that work under the tree, in a stocking and at the family table.",
+      "rule": {},
+      "interests": [
+        "home",
+        "tech",
+        "food",
+        "games",
+        "drinks",
+        "jewelry"
+      ],
+      "related": [
+        "secret-santa",
+        "birthdays",
+        "anniversaries",
+        "weddings"
+      ],
+      "guideId": "christmas-gifts-for-dad",
+      "feature": {
+        "headline": "Christmas gifts they'll remember all year",
+        "highlight": "remember",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1606830733744-0ad778449672",
+          "alt": "A tall Christmas tree decorated with white and gold ornaments by a window"
+        },
+        "intro": [
+          "Skip the last-minute panic. We've rounded up cosy, clever and properly surprising gifts for everyone on your list, from ",
+          {
+            "label": "gifts for dad",
+            "href": "/gifts/for-dad"
+          },
+          " and ",
+          {
+            "label": "gifts for mom",
+            "href": "/gifts/for-mom"
+          },
+          " to ",
+          {
+            "label": "the person who has everything",
+            "href": "/gifts/has-everything"
+          },
+          ". Doing an office swap? Head to ",
+          {
+            "label": "Secret Santa",
+            "href": "/occasions/secret-santa"
+          },
+          ". Filling stockings? Start with ",
+          {
+            "label": "gifts under $25",
+            "href": "/discover/under-25"
+          },
+          " and our ",
+          {
+            "label": "clever gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          "."
+        ]
+      },
+      "position": 13
+    },
+    {
+      "section": "occasions",
+      "slug": "birthdays",
+      "label": "Birthdays",
+      "title": "birthday gifts",
+      "metaTitle": "Unique Birthday Gifts",
+      "tagline": "Another year, another excuse to give something great.",
+      "about": "Birthday gifts should feel personal, a little bit fun and very them. We look for gifts that match a hobby, start a new one or simply make their day easier, at every budget.",
+      "rule": {},
+      "interests": [
+        "tech",
+        "games",
+        "food",
+        "selfcare",
+        "drinks",
+        "music"
+      ],
+      "related": [
+        "christmas",
+        "anniversaries",
+        "fathers-day",
+        "mothers-day"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "Birthday gifts worth blowing out candles for",
+        "highlight": "candles",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3",
+          "alt": "A sprinkle-covered layer cake on a blue cake stand"
+        },
+        "intro": [
+          "Whether it's a milestone or just a Tuesday birthday, find something they'll actually be excited to open. Shop by person with ",
+          {
+            "label": "gifts for him",
+            "href": "/gifts/for-him"
+          },
+          ", ",
+          {
+            "label": "gifts for her",
+            "href": "/gifts/for-her"
+          },
+          " and ",
+          {
+            "label": "gifts for kids",
+            "href": "/gifts/for-kids"
+          },
+          ", or go straight to the ",
+          {
+            "label": "most-loved gifts",
+            "href": "/discover/most-loved"
+          },
+          ". Want a laugh? Try our ",
+          {
+            "label": "funny gifts",
+            "href": "/unique-finds/funny"
+          },
+          "."
+        ]
+      },
+      "position": 14
+    },
+    {
+      "section": "occasions",
+      "slug": "anniversaries",
+      "label": "Anniversaries",
+      "title": "anniversary gifts",
+      "metaTitle": "Thoughtful Anniversary Gifts",
+      "tagline": "Mark the milestones with something meaningful.",
+      "about": "The best anniversary gifts celebrate the life you've built together: a shared ritual, a beautiful thing for the home, or a small luxury that says you still pay attention.",
+      "rule": {
+        "interests": [
+          "jewelry",
+          "drinks",
+          "home",
+          "food",
+          "selfcare",
+          "outdoors"
+        ]
+      },
+      "interests": [
+        "jewelry",
+        "drinks",
+        "home",
+        "food",
+        "selfcare",
+        "outdoors"
+      ],
+      "related": [
+        "valentines-day",
+        "weddings",
+        "christmas",
+        "birthdays"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Anniversary gifts that still give butterflies",
+        "highlight": "butterflies",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb",
+          "alt": "A glass of red wine on a ledge overlooking a vineyard and lake"
+        },
+        "intro": [
+          "One year or twenty-five, these gifts are made for two. Find something lovely for ",
+          {
+            "label": "your wife",
+            "href": "/gifts/for-wife"
+          },
+          " or ",
+          {
+            "label": "your husband",
+            "href": "/gifts/for-husband"
+          },
+          ", or pick a shared treat from ",
+          {
+            "label": "gifts for couples",
+            "href": "/gifts/for-couples"
+          },
+          ". Celebrating love more broadly? See our ",
+          {
+            "label": "Valentine's Day",
+            "href": "/occasions/valentines-day"
+          },
+          " and ",
+          {
+            "label": "wedding gifts",
+            "href": "/occasions/weddings"
+          },
+          "."
+        ]
+      },
+      "position": 15
+    },
+    {
+      "section": "occasions",
+      "slug": "valentines-day",
+      "label": "Valentine's Day",
+      "title": "valentine's day gifts",
+      "metaTitle": "Unique Valentine's Day Gifts",
+      "tagline": "For the one you love (and maybe a little chocolate for you).",
+      "about": "Valentine's gifts don't need to be cheesy to be romantic. We look for thoughtful, beautiful things: jewelry for everyday, a cosy night in, or a treat to share.",
+      "rule": {
+        "interests": [
+          "jewelry",
+          "food",
+          "selfcare",
+          "drinks",
+          "home"
+        ]
+      },
+      "interests": [
+        "jewelry",
+        "food",
+        "selfcare",
+        "drinks",
+        "home"
+      ],
+      "related": [
+        "anniversaries",
+        "weddings",
+        "birthdays",
+        "christmas"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Valentine's gifts that skip the cliches",
+        "highlight": "skip",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1518199266791-5375a83190b7",
+          "alt": "Glowing heart-shaped lights on a warm background"
+        },
+        "intro": [
+          "Roses are nice. Something they'll keep is nicer. Shop thoughtful picks for ",
+          {
+            "label": "your girlfriend",
+            "href": "/gifts/for-girlfriend"
+          },
+          ", ",
+          {
+            "label": "your boyfriend",
+            "href": "/gifts/for-boyfriend"
+          },
+          " or ",
+          {
+            "label": "a couple",
+            "href": "/gifts/for-couples"
+          },
+          ", or keep it sweet with something from ",
+          {
+            "label": "gifts under $50",
+            "href": "/discover/under-50"
+          },
+          ". Planning a bigger celebration? See ",
+          {
+            "label": "anniversary gifts",
+            "href": "/occasions/anniversaries"
+          },
+          "."
+        ]
+      },
+      "position": 16
+    },
+    {
+      "section": "occasions",
+      "slug": "fathers-day",
+      "label": "Father's Day",
+      "title": "father's day gifts",
+      "metaTitle": "Unique Father's Day Gifts",
+      "tagline": "Better than another tie. We promise.",
+      "about": "Father's Day is the perfect excuse to give dad an upgrade: better coffee, a proper drink, or gear for the hobby he never makes time for. We pick gifts he'll actually use.",
+      "rule": {
+        "audiences": [
+          "men"
+        ]
+      },
+      "interests": [
+        "coffee",
+        "drinks",
+        "tech",
+        "outdoors",
+        "music",
+        "games"
+      ],
+      "related": [
+        "mothers-day",
+        "birthdays",
+        "christmas",
+        "anniversaries"
+      ],
+      "guideId": "christmas-gifts-for-dad",
+      "feature": {
+        "headline": "Father's Day gifts better than another tie",
+        "highlight": "better",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
+          "alt": "A drink being poured over a large ice cube in a glass"
+        },
+        "intro": [
+          "Every dad deserves more than socks. Start with our full edit of ",
+          {
+            "label": "gifts for dad",
+            "href": "/gifts/for-dad"
+          },
+          ", browse ",
+          {
+            "label": "clever gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          " for the tinkerer, or find something for ",
+          {
+            "label": "the dad who has everything",
+            "href": "/gifts/has-everything"
+          },
+          ". On a budget? ",
+          {
+            "label": "Gifts under $50",
+            "href": "/discover/under-50"
+          },
+          " has plenty."
+        ]
+      },
+      "position": 17
+    },
+    {
+      "section": "occasions",
+      "slug": "mothers-day",
+      "label": "Mother's Day",
+      "title": "mother's day gifts",
+      "metaTitle": "Thoughtful Mother's Day Gifts",
+      "tagline": "Say thank you with something lovely.",
+      "about": "The best Mother's Day gifts help her slow down: a proper night of self-care, something beautiful for the home, or a piece of jewelry she'll wear every day.",
+      "rule": {
+        "audiences": [
+          "women"
+        ]
+      },
+      "interests": [
+        "selfcare",
+        "jewelry",
+        "home",
+        "coffee",
+        "plants",
+        "food"
+      ],
+      "related": [
+        "fathers-day",
+        "birthdays",
+        "christmas",
+        "anniversaries"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Mother's Day gifts as lovely as she is",
+        "highlight": "lovely",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1487530811176-3780de880c2d",
+          "alt": "A loose bouquet of white roses, lilac and greenery"
+        },
+        "intro": [
+          "She's done a lot for you, so make this one count. Browse our edits of ",
+          {
+            "label": "gifts for mom",
+            "href": "/gifts/for-mom"
+          },
+          " and ",
+          {
+            "label": "gifts for her",
+            "href": "/gifts/for-her"
+          },
+          ", treat her to something from ",
+          {
+            "label": "clever home finds",
+            "href": "/unique-finds/home"
+          },
+          ", or find a small extra in ",
+          {
+            "label": "gifts under $25",
+            "href": "/discover/under-25"
+          },
+          "."
+        ]
+      },
+      "position": 18
+    },
+    {
+      "section": "occasions",
+      "slug": "weddings",
+      "label": "Weddings",
+      "title": "wedding gifts",
+      "metaTitle": "Unique Wedding Gifts",
+      "tagline": "Off the registry, but never off the mark.",
+      "about": "The best wedding gifts help a couple start their life together: something for the home, a ritual to share, or a treat for the honeymoon. We pick gifts that feel personal without being risky.",
+      "rule": {
+        "audiences": [
+          "couples"
+        ]
+      },
+      "interests": [
+        "home",
+        "drinks",
+        "food",
+        "games",
+        "jewelry",
+        "outdoors"
+      ],
+      "related": [
+        "anniversaries",
+        "valentines-day",
+        "christmas",
+        "birthdays"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Wedding gifts they won't find on the registry",
+        "highlight": "won't find",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486",
+          "alt": "Two decorated chairs set up for an outdoor wedding on a lawn"
+        },
+        "intro": [
+          "Going off-registry? Good call. Find something the happy couple will use for years in ",
+          {
+            "label": "gifts for couples",
+            "href": "/gifts/for-couples"
+          },
+          " and ",
+          {
+            "label": "clever home finds",
+            "href": "/unique-finds/home"
+          },
+          ". Celebrating a later milestone? See ",
+          {
+            "label": "anniversary gifts",
+            "href": "/occasions/anniversaries"
+          },
+          ", or browse our ",
+          {
+            "label": "editors' picks",
+            "href": "/discover/editors-picks"
+          },
+          " for something special."
+        ]
+      },
+      "position": 19
+    },
+    {
+      "section": "occasions",
+      "slug": "secret-santa",
+      "label": "Secret Santa",
+      "title": "secret santa gifts",
+      "metaTitle": "Fun Secret Santa Gifts Under $30",
+      "tagline": "Fun, small and surprisingly good. All around $30 or less.",
+      "about": "Secret Santa gifts need to work for almost anyone and stay on budget. We look for crowd-pleasers: sweet treats, desk upgrades and little things that get a laugh.",
+      "rule": {
+        "maxPrice": 30
+      },
+      "interests": [
+        "food",
+        "coffee",
+        "home",
+        "plants",
+        "paper",
+        "games"
+      ],
+      "related": [
+        "christmas",
+        "birthdays",
+        "valentines-day",
+        "anniversaries"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Secret Santa gifts that steal the show",
+        "highlight": "steal",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1512474932049-78ac69ede12c",
+          "alt": "A red and gold Christmas bauble hanging on a pine branch"
+        },
+        "intro": [
+          "Office swap, family draw or friendsmas: these gifts keep to the budget and still get a reaction. For even more options see ",
+          {
+            "label": "gifts under $25",
+            "href": "/discover/under-25"
+          },
+          " and ",
+          {
+            "label": "funny gifts",
+            "href": "/unique-finds/funny"
+          },
+          ". Buying for someone you know well? Try ",
+          {
+            "label": "gifts for friends",
+            "href": "/gifts/for-friends"
+          },
+          " or our full ",
+          {
+            "label": "Christmas edit",
+            "href": "/occasions/christmas"
+          },
+          "."
+        ]
+      },
+      "position": 20
+    },
+    {
+      "section": "discover",
+      "slug": "",
+      "label": "Everything",
+      "title": "every gift we love",
+      "metaTitle": "Discover Unique Gifts",
+      "gridTitle": "all gifts",
+      "picksTitle": "where to start",
+      "tagline": "Every find in one place.",
+      "about": "Everything on this site is chosen for being genuinely interesting, useful or delightful. Browse it all here, then narrow it down by interest, price or retailer.",
+      "rule": {
+        "sort": "featured"
+      },
+      "interests": [
+        "tech",
+        "home",
+        "coffee",
+        "drinks",
+        "jewelry",
+        "games"
+      ],
+      "related": [
+        "new",
+        "most-loved",
+        "editors-picks",
+        "under-25",
+        "under-50"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "Discover something you didn't know you needed",
+        "highlight": "didn't know",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8",
+          "alt": "A bright shop interior with clothes and homeware on shelves"
+        },
+        "intro": [
+          "This is the whole collection: every clever gadget, cosy home find and small luxury we've picked. Not sure where to begin? Try ",
+          {
+            "label": "new this week",
+            "href": "/discover/new"
+          },
+          ", the ",
+          {
+            "label": "most-loved gifts",
+            "href": "/discover/most-loved"
+          },
+          " or our ",
+          {
+            "label": "editors' picks",
+            "href": "/discover/editors-picks"
+          },
+          ". Shopping on a budget? Jump to ",
+          {
+            "label": "under $25",
+            "href": "/discover/under-25"
+          },
+          " or ",
+          {
+            "label": "under $50",
+            "href": "/discover/under-50"
+          },
+          "."
+        ]
+      },
+      "position": 21
+    },
+    {
+      "section": "discover",
+      "slug": "new",
+      "label": "New this week",
+      "title": "new gifts this week",
+      "metaTitle": "New Gift Ideas This Week",
+      "picksTitle": "just landed",
+      "tagline": "Fresh finds, newest first.",
+      "about": "We add new finds every week. This page shows the latest additions first, so you can spot something before everyone else does.",
+      "rule": {
+        "sort": "newest"
+      },
+      "interests": [
+        "tech",
+        "home",
+        "food",
+        "toys",
+        "drinks",
+        "jewelry"
+      ],
+      "related": [
+        "most-loved",
+        "editors-picks",
+        "under-25",
+        "under-50"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "New gifts, fresh off the shelf",
+        "highlight": "fresh",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f",
+          "alt": "A kraft paper gift box tied with a bright pink ribbon"
+        },
+        "intro": [
+          "The newest additions to our collection, sorted with the latest first. Like what you see? Check back often, or browse the ",
+          {
+            "label": "most-loved gifts",
+            "href": "/discover/most-loved"
+          },
+          " and ",
+          {
+            "label": "trending finds",
+            "href": "/unique-finds/trending"
+          },
+          ". Shopping for a specific occasion? Start with ",
+          {
+            "label": "Christmas",
+            "href": "/occasions/christmas"
+          },
+          " or ",
+          {
+            "label": "birthdays",
+            "href": "/occasions/birthdays"
+          },
+          "."
+        ]
+      },
+      "position": 22
+    },
+    {
+      "section": "discover",
+      "slug": "most-loved",
+      "label": "Most loved",
+      "title": "most-loved gifts",
+      "metaTitle": "Our Most-Loved Gifts",
+      "gridTitle": "every much-loved gift",
+      "picksTitle": "the all-time favourites",
+      "tagline": "The finds people keep coming back to.",
+      "about": "These are the gifts our readers save, share and buy again and again. Bestsellers and editor favourites come first, so you can shop with confidence.",
+      "rule": {
+        "sort": "featured"
+      },
+      "interests": [
+        "coffee",
+        "drinks",
+        "selfcare",
+        "toys",
+        "games",
+        "home"
+      ],
+      "related": [
+        "new",
+        "editors-picks",
+        "under-25",
+        "under-50"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "The gifts everyone's falling for",
+        "highlight": "falling for",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1543269865-cbf427effbad",
+          "alt": "Three friends laughing together at a cafe table"
+        },
+        "intro": [
+          "Bestsellers, editor favourites and the finds people can't stop saving, all in one place. If you want something nobody's seen yet, try ",
+          {
+            "label": "new this week",
+            "href": "/discover/new"
+          },
+          " or our ",
+          {
+            "label": "unexpected finds",
+            "href": "/unique-finds/unexpected"
+          },
+          ". Shopping for someone specific? Start with ",
+          {
+            "label": "gifts for him",
+            "href": "/gifts/for-him"
+          },
+          " or ",
+          {
+            "label": "gifts for her",
+            "href": "/gifts/for-her"
+          },
+          "."
+        ]
+      },
+      "position": 23
+    },
+    {
+      "section": "discover",
+      "slug": "editors-picks",
+      "label": "Editors' picks",
+      "title": "editors' picks",
+      "metaTitle": "Editors' Gift Picks",
+      "gridTitle": "all editors' picks",
+      "picksTitle": "our very favourites",
+      "tagline": "The finds we'd buy for our own people.",
+      "about": "Our editors test, compare and argue over gifts all year. These are the ones that won: well made, genuinely useful and a joy to give.",
+      "rule": {
+        "ids": [
+          "pour-over-coffee-set",
+          "craft-cocktail-kit",
+          "botanical-self-care-set",
+          "vinyl-record-crate",
+          "strategy-board-game",
+          "cashmere-candle",
+          "statement-drop-earrings",
+          "linen-notebook",
+          "classic-leather-watch",
+          "wooden-train-set",
+          "stoneware-cups",
+          "pop-up-tent"
+        ]
+      },
+      "interests": [
+        "coffee",
+        "drinks",
+        "selfcare",
+        "music",
+        "games",
+        "jewelry"
+      ],
+      "related": [
+        "most-loved",
+        "new",
+        "under-25",
+        "under-50"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Editors' picks we'd give our own family",
+        "highlight": "own family",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1524758631624-e2822e304c36",
+          "alt": "A bright, stylish living room with a desk lamp and lounge chairs"
+        },
+        "intro": [
+          "A short, sharp list of the gifts our team loves most. For the full collection head to ",
+          {
+            "label": "discover everything",
+            "href": "/discover"
+          },
+          ", or browse by person with ",
+          {
+            "label": "gifts for mom",
+            "href": "/gifts/for-mom"
+          },
+          ", ",
+          {
+            "label": "gifts for dad",
+            "href": "/gifts/for-dad"
+          },
+          " and ",
+          {
+            "label": "gifts for couples",
+            "href": "/gifts/for-couples"
+          },
+          "."
+        ]
+      },
+      "position": 24
+    },
+    {
+      "section": "discover",
+      "slug": "under-25",
+      "label": "Under $25",
+      "title": "gifts under $25",
+      "metaTitle": "Great Gifts Under $25",
+      "tagline": "Small price, big smile.",
+      "about": "A small budget doesn't mean a boring gift. These finds are all under $25 and perfect for stocking stuffers, Secret Santa and little thank-yous.",
+      "rule": {
+        "maxPrice": 24.99
+      },
+      "interests": [
+        "food",
+        "coffee",
+        "plants",
+        "paper",
+        "selfcare",
+        "home"
+      ],
+      "related": [
+        "under-50",
+        "most-loved",
+        "new",
+        "editors-picks"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Gifts under $25 that look way more expensive",
+        "highlight": "way more",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd",
+          "alt": "A frosted cupcake on a bright yellow background"
+        },
+        "intro": [
+          "Every find here is under $25 (sample prices; check the retailer for today's price). Perfect for ",
+          {
+            "label": "Secret Santa",
+            "href": "/occasions/secret-santa"
+          },
+          ", stocking stuffers or a just-because treat for ",
+          {
+            "label": "friends",
+            "href": "/gifts/for-friends"
+          },
+          ". Got a bit more to spend? See ",
+          {
+            "label": "gifts under $50",
+            "href": "/discover/under-50"
+          },
+          "."
+        ]
+      },
+      "position": 25
+    },
+    {
+      "section": "discover",
+      "slug": "under-50",
+      "label": "Under $50",
+      "title": "gifts under $50",
+      "metaTitle": "Great Gifts Under $50",
+      "tagline": "The sweet spot for great gifts.",
+      "about": "Under $50 is the sweet spot: enough for something properly nice, not so much that it feels over the top. Ideal for birthdays, thank-yous and the holidays.",
+      "rule": {
+        "maxPrice": 49.99
+      },
+      "interests": [
+        "coffee",
+        "drinks",
+        "jewelry",
+        "tech",
+        "home",
+        "games"
+      ],
+      "related": [
+        "under-25",
+        "most-loved",
+        "new",
+        "editors-picks"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Gifts under $50 that feel like a splurge",
+        "highlight": "splurge",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7",
+          "alt": "Two lit candles in amber glass jars"
+        },
+        "intro": [
+          "Thoughtful, well made and all under $50 (sample prices; check the retailer for today's price). Great for ",
+          {
+            "label": "birthdays",
+            "href": "/occasions/birthdays"
+          },
+          ", ",
+          {
+            "label": "Christmas",
+            "href": "/occasions/christmas"
+          },
+          " and everyone from ",
+          {
+            "label": "your boyfriend",
+            "href": "/gifts/for-boyfriend"
+          },
+          " to ",
+          {
+            "label": "your mom",
+            "href": "/gifts/for-mom"
+          },
+          ". Need something smaller? Try ",
+          {
+            "label": "gifts under $25",
+            "href": "/discover/under-25"
+          },
+          "."
+        ]
+      },
+      "position": 26
+    },
+    {
+      "section": "unique-finds",
+      "slug": "",
+      "label": "All unique finds",
+      "title": "unique finds",
+      "metaTitle": "Unique & Unusual Gifts",
+      "gridTitle": "all unique finds",
+      "picksTitle": "the oddly perfect picks",
+      "tagline": "Things you didn't know existed.",
+      "about": "Unique finds are the gifts that make people say 'where did you find this?'. Clever, quirky, beautiful or just plain fun, they're never the obvious choice.",
+      "rule": {
+        "sort": "featured"
+      },
+      "interests": [
+        "tech",
+        "toys",
+        "home",
+        "games",
+        "music",
+        "drinks"
+      ],
+      "related": [
+        "gadgets",
+        "home",
+        "funny",
+        "trending",
+        "unexpected"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "Unique finds you won't see everywhere",
+        "highlight": "won't",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1558060370-d644479cb6f7",
+          "alt": "A crowd of colourful toy robots and figures"
+        },
+        "intro": [
+          "Our favourite unusual, clever and slightly unexpected finds, all in one place. Into tech? Try ",
+          {
+            "label": "unusual gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          ". Love a laugh? See ",
+          {
+            "label": "funny gifts",
+            "href": "/unique-finds/funny"
+          },
+          ". Want to see what everyone's buying? Head to ",
+          {
+            "label": "trending finds",
+            "href": "/unique-finds/trending"
+          },
+          ", or try ",
+          {
+            "label": "unexpected discoveries",
+            "href": "/unique-finds/unexpected"
+          },
+          " for something truly out there."
+        ]
+      },
+      "position": 27
+    },
+    {
+      "section": "unique-finds",
+      "slug": "gadgets",
+      "label": "Unusual gadgets",
+      "title": "unusual gadgets",
+      "metaTitle": "Unusual Gadgets & Tech Gifts",
+      "gridTitle": "all unusual gadgets",
+      "picksTitle": "gadgets we can't put down",
+      "tagline": "Clever little things that actually get used.",
+      "about": "We look for gadgets that solve a real problem or make everyday life more fun, not ones that end up in a drawer. Small, smart and surprisingly useful.",
+      "rule": {
+        "interests": [
+          "tech",
+          "music"
+        ]
+      },
+      "interests": [
+        "tech",
+        "music",
+        "games",
+        "outdoors"
+      ],
+      "related": [
+        "home",
+        "trending",
+        "unexpected",
+        "funny"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Unusual gadgets for curious minds",
+        "highlight": "curious",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+          "alt": "Vintage computers and keyboards lit in pink and blue"
+        },
+        "intro": [
+          "From retro-style controllers to headphones with serious style, these are gadgets with personality. Perfect for ",
+          {
+            "label": "the tech-loving guy",
+            "href": "/gifts/for-him"
+          },
+          ", ",
+          {
+            "label": "teens and kids",
+            "href": "/gifts/for-kids"
+          },
+          " or ",
+          {
+            "label": "someone who has everything",
+            "href": "/gifts/has-everything"
+          },
+          ". Want more practical picks? See ",
+          {
+            "label": "clever home products",
+            "href": "/unique-finds/home"
+          },
+          "."
+        ]
+      },
+      "position": 28
+    },
+    {
+      "section": "unique-finds",
+      "slug": "home",
+      "label": "Clever home",
+      "title": "clever home products",
+      "metaTitle": "Clever Home Gifts",
+      "gridTitle": "all clever home finds",
+      "picksTitle": "home upgrades we love",
+      "tagline": "Small upgrades that make home feel better.",
+      "about": "The best home gifts quietly improve every day: a better mug, a calmer room, a plant that refuses to die. We pick things that look good and earn their space.",
+      "rule": {
+        "interests": [
+          "home",
+          "plants",
+          "coffee"
+        ]
+      },
+      "interests": [
+        "home",
+        "plants",
+        "coffee",
+        "paper"
+      ],
+      "related": [
+        "gadgets",
+        "unexpected",
+        "trending",
+        "funny"
+      ],
+      "guideId": "thoughtful-gifts",
+      "feature": {
+        "headline": "Clever home finds that make life easier",
+        "highlight": "easier",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+          "alt": "A bright living room with a yellow armchair and wall art"
+        },
+        "intro": [
+          "Cosy, clever and good-looking things for every room. Ideal for ",
+          {
+            "label": "housewarmings",
+            "href": "/gifts/for-couples"
+          },
+          ", ",
+          {
+            "label": "weddings",
+            "href": "/occasions/weddings"
+          },
+          " and ",
+          {
+            "label": "Mother's Day",
+            "href": "/occasions/mothers-day"
+          },
+          ". Looking for something more techy? Try ",
+          {
+            "label": "unusual gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          ", or keep it small with ",
+          {
+            "label": "gifts under $25",
+            "href": "/discover/under-25"
+          },
+          "."
+        ]
+      },
+      "position": 29
+    },
+    {
+      "section": "unique-finds",
+      "slug": "funny",
+      "label": "Funny gifts",
+      "title": "funny gifts",
+      "metaTitle": "Funny Gifts That Get a Laugh",
+      "gridTitle": "all funny gifts",
+      "picksTitle": "guaranteed giggles",
+      "tagline": "Playful, silly and guaranteed to get a laugh.",
+      "about": "Funny gifts work best when they're also good: a game that gets everyone laughing, a treat with a twist, a toy grown-ups secretly want. Fun first, never cheap.",
+      "rule": {
+        "interests": [
+          "games",
+          "toys",
+          "food"
+        ]
+      },
+      "interests": [
+        "games",
+        "toys",
+        "food"
+      ],
+      "related": [
+        "unexpected",
+        "trending",
+        "gadgets",
+        "home"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Funny gifts that get the biggest laugh",
+        "highlight": "laugh",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+          "alt": "A pug in a grey jumper against a bright yellow background"
+        },
+        "intro": [
+          "Games, treats and toys that bring the fun. Great for ",
+          {
+            "label": "Secret Santa",
+            "href": "/occasions/secret-santa"
+          },
+          ", ",
+          {
+            "label": "birthdays",
+            "href": "/occasions/birthdays"
+          },
+          " and ",
+          {
+            "label": "friends",
+            "href": "/gifts/for-friends"
+          },
+          " with a sense of humour. Want the weirdest stuff we've got? Head to ",
+          {
+            "label": "unexpected discoveries",
+            "href": "/unique-finds/unexpected"
+          },
+          "."
+        ]
+      },
+      "position": 30
+    },
+    {
+      "section": "unique-finds",
+      "slug": "trending",
+      "label": "Trending",
+      "title": "trending finds",
+      "metaTitle": "Trending Gift Ideas",
+      "gridTitle": "everything trending",
+      "picksTitle": "hot right now",
+      "tagline": "What everyone's looking at right now.",
+      "about": "These are the finds getting the most attention on our site right now. If you want to give what everyone's talking about, start here.",
+      "rule": {
+        "trending": true
+      },
+      "interests": [
+        "coffee",
+        "home",
+        "tech",
+        "outdoors",
+        "games",
+        "plants"
+      ],
+      "related": [
+        "unexpected",
+        "gadgets",
+        "home",
+        "funny"
+      ],
+      "guideId": "clever-gadgets",
+      "feature": {
+        "headline": "Trending finds everyone's talking about",
+        "highlight": "talking about",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4",
+          "alt": "A crowd at a concert holding up their phones under bright lights"
+        },
+        "intro": [
+          "The gifts getting the most clicks and saves right now. Prefer the all-time favourites? See ",
+          {
+            "label": "most-loved gifts",
+            "href": "/discover/most-loved"
+          },
+          ". Want to be first to something new? Try ",
+          {
+            "label": "new this week",
+            "href": "/discover/new"
+          },
+          ", or go off the beaten track with ",
+          {
+            "label": "unexpected discoveries",
+            "href": "/unique-finds/unexpected"
+          },
+          "."
+        ]
+      },
+      "position": 31
+    },
+    {
+      "section": "unique-finds",
+      "slug": "unexpected",
+      "label": "Unexpected discoveries",
+      "title": "unexpected discoveries",
+      "metaTitle": "Unexpected Gift Ideas",
+      "gridTitle": "all unexpected discoveries",
+      "picksTitle": "the wildcard picks",
+      "tagline": "The gifts nobody saw coming.",
+      "about": "Sometimes the best gift is the one nobody would think of: a retro fridge, a crate of records, a crowd of tin robots. These are our wildcard picks.",
+      "rule": {
+        "ids": [
+          "retro-mini-fridge",
+          "tin-robot-collection",
+          "vinyl-record-crate",
+          "terracotta-cactus",
+          "quiet-wall-clock",
+          "chocolate-bark-box",
+          "pop-up-tent",
+          "craft-cocktail-kit",
+          "swivel-reading-chair",
+          "retro-game-controller",
+          "building-bricks",
+          "big-morning-mug"
+        ]
+      },
+      "interests": [
+        "home",
+        "drinks",
+        "music",
+        "toys",
+        "outdoors",
+        "food"
+      ],
+      "related": [
+        "funny",
+        "trending",
+        "gadgets",
+        "home"
+      ],
+      "guideId": "has-everything",
+      "feature": {
+        "headline": "Unexpected gifts nobody saw coming",
+        "highlight": "nobody",
+        "updated": "November 2026",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1513151233558-d860c5398176",
+          "alt": "Colourful confetti falling against a teal background"
+        },
+        "intro": [
+          "Our wildest, most surprising picks. Made for ",
+          {
+            "label": "the person who has everything",
+            "href": "/gifts/has-everything"
+          },
+          " and anyone who loves a plot twist. Want something a little more practical? See ",
+          {
+            "label": "clever home products",
+            "href": "/unique-finds/home"
+          },
+          " or our ",
+          {
+            "label": "editors' picks",
+            "href": "/discover/editors-picks"
+          },
+          "."
+        ]
+      },
+      "position": 32
+    }
+  ],
+  "content": {
+    "site": {
+      "name": "giftforall",
+      "tagline": "Gifts worth giving.",
+      "description": "Discover unusual, thoughtful and genuinely interesting gifts for everyone you love. Hand-picked finds from retailers you already know.",
+      "announcement": "Discover something unexpected. Find gifts worth giving.",
+      "contactEmail": "hello@example.com"
+    },
+    "mainMenus": [
+      {
+        "label": "Discover",
+        "href": "/discover",
+        "intro": "Start somewhere surprising.",
+        "links": [
+          {
+            "label": "New this week",
+            "href": "/discover/new"
+          },
+          {
+            "label": "Most loved",
+            "href": "/discover/most-loved"
+          },
+          {
+            "label": "Editors' picks",
+            "href": "/discover/editors-picks"
+          },
+          {
+            "label": "Under $25",
+            "href": "/discover/under-25"
+          },
+          {
+            "label": "Under $50",
+            "href": "/discover/under-50"
+          },
+          {
+            "label": "Browse everything",
+            "href": "/discover"
+          }
+        ],
+        "feature": {
+          "title": "This week's most surprising finds",
+          "href": "/discover/new",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f",
+            "alt": "A kraft paper gift box tied with a pink ribbon"
+          }
+        }
+      },
+      {
+        "label": "Gifts by Recipient",
+        "href": "/gifts/recipient",
+        "intro": "Find the right gift for the right person.",
+        "links": [
+          {
+            "label": "For Dad",
+            "href": "/gifts/for-dad"
+          },
+          {
+            "label": "For Mom",
+            "href": "/gifts/for-mom"
+          },
+          {
+            "label": "For Him",
+            "href": "/gifts/for-him"
+          },
+          {
+            "label": "For Her",
+            "href": "/gifts/for-her"
+          },
+          {
+            "label": "For Couples",
+            "href": "/gifts/for-couples"
+          },
+          {
+            "label": "For Friends",
+            "href": "/gifts/for-friends"
+          },
+          {
+            "label": "For Kids",
+            "href": "/gifts/for-kids"
+          },
+          {
+            "label": "For Someone Who Has Everything",
+            "href": "/gifts/has-everything"
+          }
+        ],
+        "feature": {
+          "title": "Gifts for the person who has everything",
+          "href": "/gifts/has-everything",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48",
+            "alt": "A bright pink gift box wrapped with a gold ribbon"
+          }
+        }
+      },
+      {
+        "label": "Gifts by Occasion",
+        "href": "/gifts/occasion",
+        "intro": "Every moment deserves something good.",
+        "links": [
+          {
+            "label": "Christmas",
+            "href": "/occasions/christmas"
+          },
+          {
+            "label": "Birthdays",
+            "href": "/occasions/birthdays"
+          },
+          {
+            "label": "Anniversaries",
+            "href": "/occasions/anniversaries"
+          },
+          {
+            "label": "Valentine's Day",
+            "href": "/occasions/valentines-day"
+          },
+          {
+            "label": "Father's Day",
+            "href": "/occasions/fathers-day"
+          },
+          {
+            "label": "Mother's Day",
+            "href": "/occasions/mothers-day"
+          },
+          {
+            "label": "Weddings",
+            "href": "/occasions/weddings"
+          },
+          {
+            "label": "Secret Santa",
+            "href": "/occasions/secret-santa"
+          }
+        ],
+        "feature": {
+          "title": "The Christmas edit is here",
+          "href": "/occasions/christmas",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1543258103-a62bdc069871",
+            "alt": "Red ornaments hanging on a lit Christmas tree"
+          }
+        }
+      },
+      {
+        "label": "Unique Finds",
+        "href": "/unique-finds",
+        "intro": "Things you didn't know existed.",
+        "links": [
+          {
+            "label": "Unusual Gadgets",
+            "href": "/unique-finds/gadgets"
+          },
+          {
+            "label": "Clever Home Products",
+            "href": "/unique-finds/home"
+          },
+          {
+            "label": "Funny Gifts",
+            "href": "/unique-finds/funny"
+          },
+          {
+            "label": "Trending Finds",
+            "href": "/unique-finds/trending"
+          },
+          {
+            "label": "Unexpected Discoveries",
+            "href": "/unique-finds/unexpected"
+          }
+        ],
+        "feature": {
+          "title": "Clever gadgets worth discovering",
+          "href": "/unique-finds/gadgets",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1498049794561-7780e7231661",
+            "alt": "Headphones, a phone and a smartwatch laid out on a white desk"
+          }
+        }
+      },
+      {
+        "label": "Gift Guides",
+        "href": "/guides",
+        "intro": "Ideas, lists and stories to get you started.",
+        "links": [
+          {
+            "label": "Best Gifts for Dad",
+            "href": "/guides/best-gifts-for-dad"
+          },
+          {
+            "label": "Gifts Under $25",
+            "href": "/guides/gifts-under-25"
+          },
+          {
+            "label": "Gifts Under $50",
+            "href": "/guides/gifts-under-50"
+          },
+          {
+            "label": "Gifts for Tech Lovers",
+            "href": "/guides/tech-lovers"
+          },
+          {
+            "label": "Gifts for People Who Have Everything",
+            "href": "/guides/has-everything"
+          },
+          {
+            "label": "Contact us",
+            "href": "/about#contact"
+          }
+        ],
+        "feature": {
+          "title": "Thoughtful gifts that don't feel ordinary",
+          "href": "/guides/thoughtful-gifts",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
+            "alt": "A hand writing in a notebook next to a cup of coffee"
+          }
+        }
+      }
+    ],
+    "footerColumns": [
+      {
+        "title": "Discover",
+        "links": [
+          {
+            "label": "New this week",
+            "href": "/discover/new"
+          },
+          {
+            "label": "Gifts by recipient",
+            "href": "/gifts/recipient"
+          },
+          {
+            "label": "Gifts by occasion",
+            "href": "/gifts/occasion"
+          },
+          {
+            "label": "Unique finds",
+            "href": "/unique-finds"
+          },
+          {
+            "label": "Under $50",
+            "href": "/discover/under-50"
+          }
+        ]
+      },
+      {
+        "title": "Gift Guides",
+        "links": [
+          {
+            "label": "Best gifts for dad",
+            "href": "/guides/best-gifts-for-dad"
+          },
+          {
+            "label": "Gifts under $25",
+            "href": "/guides/gifts-under-25"
+          },
+          {
+            "label": "Gifts for tech lovers",
+            "href": "/guides/tech-lovers"
+          },
+          {
+            "label": "For people who have everything",
+            "href": "/guides/has-everything"
+          },
+          {
+            "label": "Contact us",
+            "href": "/about#contact"
+          }
+        ]
+      },
+      {
+        "title": "About",
+        "links": [
+          {
+            "label": "About us",
+            "href": "/about"
+          },
+          {
+            "label": "Affiliate disclosure",
+            "href": "/affiliate-disclosure"
+          },
+          {
+            "label": "Privacy policy",
+            "href": "/privacy"
+          },
+          {
+            "label": "Terms of use",
+            "href": "/terms"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/"
+      },
+      {
+        "label": "Pinterest",
+        "href": "https://www.pinterest.com/"
+      },
+      {
+        "label": "TikTok",
+        "href": "https://www.tiktok.com/"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/"
+      }
+    ],
+    "exampleSearches": [
+      "unusual gifts for my dad who has everything",
+      "funny secret santa gifts under $25",
+      "clever kitchen gadgets for my mom",
+      "anniversary gifts for my husband",
+      "cozy gifts for my best friend"
+    ],
+    "popularSearches": [
+      "Gifts for dad",
+      "Under $25",
+      "Gadgets",
+      "Secret Santa",
+      "Candles",
+      "Board games"
+    ],
+    "recipients": [
+      {
+        "id": "dad",
+        "label": "Dad",
+        "href": "/gifts/for-dad",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+          "alt": "Black and white portrait of a bearded man"
+        }
+      },
+      {
+        "id": "mom",
+        "label": "Mom",
+        "href": "/gifts/for-mom",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9",
+          "alt": "A mother relaxing on the sofa with her two children"
+        }
+      },
+      {
+        "id": "boyfriend",
+        "label": "Boyfriend",
+        "href": "/gifts/for-boyfriend",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+          "alt": "A smiling man in a white t-shirt"
+        }
+      },
+      {
+        "id": "girlfriend",
+        "label": "Girlfriend",
+        "href": "/gifts/for-girlfriend",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+          "alt": "A smiling woman in a denim jacket"
+        }
+      },
+      {
+        "id": "husband",
+        "label": "Husband",
+        "href": "/gifts/for-husband",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7",
+          "alt": "A man in a dark suit standing with arms crossed"
+        }
+      },
+      {
+        "id": "wife",
+        "label": "Wife",
+        "href": "/gifts/for-wife",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+          "alt": "A woman in a red sweater laughing"
+        }
+      },
+      {
+        "id": "best-friend",
+        "label": "Best Friend",
+        "href": "/gifts/for-friends",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1511632765486-a01980e01a18",
+          "alt": "Four friends with their arms around each other at sunset"
+        }
+      },
+      {
+        "id": "has-everything",
+        "label": "Someone Who Has Everything",
+        "href": "/gifts/has-everything",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48",
+          "alt": "A pink gift box tied with a gold ribbon"
+        }
+      }
+    ],
+    "collections": [
+      {
+        "id": "make-you-smile",
+        "title": "Gifts That Make You Smile",
+        "description": "Playful, silly and slightly ridiculous. Guaranteed to get a laugh.",
+        "href": "/unique-finds/funny",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24",
+          "alt": "A single banana on a bright pink background"
+        },
+        "tone": "blush"
+      },
+      {
+        "id": "didnt-know-they-needed",
+        "title": "Things They Didn't Know They Needed",
+        "description": "Small upgrades to everyday life.",
+        "href": "/unique-finds/home",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1503602642458-232111445657",
+          "alt": "A pale wooden stool against a soft blue wall"
+        },
+        "tone": "sage"
+      },
+      {
+        "id": "has-everything",
+        "title": "For the Person Who Has Everything",
+        "description": "Rare, unusual and properly hard to guess.",
+        "href": "/gifts/has-everything",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1607344645866-009c320b63e0",
+          "alt": "Small black gift boxes with gold bows on a black surface"
+        },
+        "tone": "ink"
+      },
+      {
+        "id": "clever-gadgets",
+        "title": "Clever Gadgets Worth Discovering",
+        "description": "Smart little things that actually get used.",
+        "href": "/unique-finds/gadgets",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1498049794561-7780e7231661",
+          "alt": "Headphones, phone and smartwatch on a white desk"
+        },
+        "tone": "sand"
+      },
+      {
+        "id": "small-gifts",
+        "title": "Small Gifts, Big Surprises",
+        "description": "Stocking fillers and little treats under $25.",
+        "href": "/discover/under-25",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd",
+          "alt": "A frosted cupcake on a yellow background"
+        },
+        "tone": "clay"
+      }
+    ],
+    "occasions": [
+      {
+        "id": "christmas",
+        "title": "Christmas",
+        "note": "The big one. Start early.",
+        "href": "/occasions/christmas",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1543258103-a62bdc069871",
+          "alt": "Red baubles on a glowing Christmas tree"
+        }
+      },
+      {
+        "id": "birthdays",
+        "title": "Birthdays",
+        "note": "Another year, another excuse.",
+        "href": "/occasions/birthdays",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d",
+          "alt": "A bunch of colourful party balloons"
+        }
+      },
+      {
+        "id": "anniversaries",
+        "title": "Anniversaries",
+        "note": "Mark the milestones.",
+        "href": "/occasions/anniversaries",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3",
+          "alt": "Friends raising glasses of red wine in a toast"
+        }
+      },
+      {
+        "id": "valentines-day",
+        "title": "Valentine's Day",
+        "note": "For the one you love.",
+        "href": "/occasions/valentines-day",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1518199266791-5375a83190b7",
+          "alt": "Glowing heart-shaped lights on a warm background"
+        }
+      },
+      {
+        "id": "fathers-day",
+        "title": "Father's Day",
+        "note": "Better than another tie.",
+        "href": "/occasions/fathers-day",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
+          "alt": "A drink being poured over ice into a glass"
+        }
+      },
+      {
+        "id": "mothers-day",
+        "title": "Mother's Day",
+        "note": "Say it with something lovely.",
+        "href": "/occasions/mothers-day",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1561181286-d3fee7d55364",
+          "alt": "Pink tulips in a clear glass vase"
+        }
+      }
+    ],
+    "articles": [
+      {
+        "id": "christmas-gifts-for-dad",
+        "label": "Gift Guide",
+        "title": "The Best Christmas Gifts for Dad",
+        "intro": "From the dad who says he wants nothing to the one who already owns every tool. Here's what to get him this year.",
+        "href": "/guides/christmas-gifts-for-dad",
+        "readTime": "8 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a",
+          "alt": "Wrapped red and white Christmas presents"
+        },
+        "rule": {
+          "audiences": [
+            "men"
+          ]
+        },
+        "body": [
+          "Ask a dad what he wants for Christmas and you'll hear the same thing every year: nothing. He means it, too. If he needed it, he'd have bought it in October.",
+          "So skip the things he needs and look for the things he'd enjoy but would never buy for himself. A better way to make his morning coffee. A proper glass for the drink he pours on Friday night. A game that gets the whole family around the table.",
+          "Everything below has been picked with that in mind. None of it is a novelty he'll forget by New Year."
+        ]
+      },
+      {
+        "id": "has-everything",
+        "label": "Ideas",
+        "title": "Unique Gifts for Someone Who Has Everything",
+        "intro": "When the usual ideas are taken, go for something they'd never think to buy themselves.",
+        "href": "/guides/has-everything",
+        "readTime": "6 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1461360228754-6e81c478b882",
+          "alt": "Rows of vinyl records in a record shop"
+        },
+        "rule": {
+          "interests": [
+            "music",
+            "games",
+            "plants",
+            "drinks"
+          ]
+        },
+        "body": [
+          "Some people are impossible to shop for. They own the gadgets, they've read the books, and anything they wanted they bought themselves last week.",
+          "The trick is to stop looking for something they need. Look for something they'd never think of instead: a small pleasure, an odd find or a nicer version of an everyday thing.",
+          "These are the gifts we reach for when the usual ideas are already taken."
+        ]
+      },
+      {
+        "id": "clever-gadgets",
+        "label": "Tested & Loved",
+        "title": "Clever Gadgets That Make Everyday Life Easier",
+        "intro": "Small, smart and surprisingly useful.",
+        "href": "/guides/clever-gadgets",
+        "readTime": "5 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc",
+          "alt": "A tidy desk with laptop, coffee and notebook"
+        },
+        "rule": {
+          "interests": [
+            "tech",
+            "music"
+          ]
+        },
+        "body": [
+          "A good gadget earns its place. It solves a small problem you'd stopped noticing, and a month later you can't remember how you managed without it.",
+          "We skipped anything that needs an app to turn on, anything that will end up in a drawer, and anything that only looks clever in an advert.",
+          "What's left is a short list of things that get used every day."
+        ]
+      },
+      {
+        "id": "thoughtful-gifts",
+        "label": "Essay",
+        "title": "Thoughtful Gifts That Don't Feel Ordinary",
+        "intro": "A few ideas for giving with a bit more meaning.",
+        "href": "/guides/thoughtful-gifts",
+        "readTime": "4 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
+          "alt": "A hand writing in a journal beside a coffee cup"
+        },
+        "rule": {
+          "interests": [
+            "paper",
+            "selfcare",
+            "jewelry",
+            "home"
+          ]
+        },
+        "body": [
+          "A thoughtful gift doesn't have to be expensive. It has to show that you were paying attention.",
+          "Think about how they spend a quiet evening, what they keep on their desk, or the small thing they keep saying they'll get round to buying. That's usually where the good ideas are.",
+          "Here are a few gifts that feel personal without needing a monogram."
+        ]
+      },
+      {
+        "id": "best-gifts-for-dad",
+        "label": "Gift Guide",
+        "title": "The Best Gifts for Dad, Any Time of Year",
+        "intro": "Birthday, Father's Day or just because. Gifts he'll use long after the wrapping paper is gone.",
+        "href": "/guides/best-gifts-for-dad",
+        "readTime": "5 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
+          "alt": "A drink being poured over a large ice cube in a glass"
+        },
+        "rule": {
+          "audiences": [
+            "men"
+          ],
+          "interests": [
+            "coffee",
+            "drinks",
+            "tech",
+            "outdoors",
+            "music",
+            "games"
+          ]
+        },
+        "body": [
+          "Dads are hard to buy for because they rarely ask for anything. The good news is that most of them have a few simple pleasures, and a gift that makes one of those better nearly always lands.",
+          "Start with what he already does. If he makes coffee every morning, upgrade the coffee. If he's the one who plans the camping trip, get him something for the trip.",
+          "These are our favourite picks for dads right now."
+        ]
+      },
+      {
+        "id": "gifts-under-25",
+        "label": "On a budget",
+        "title": "Great Gifts Under $25",
+        "intro": "Small gifts that don't feel small. Good for stockings, Secret Santa and thank-yous.",
+        "href": "/guides/gifts-under-25",
+        "readTime": "4 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd",
+          "alt": "A frosted cupcake on a bright yellow background"
+        },
+        "rule": {
+          "maxPrice": 24.99
+        },
+        "body": [
+          "A small budget is not a problem. Some of the best gifts cost less than a takeaway.",
+          "At this price, go for one nice thing rather than a bundle of cheap ones. A well-made mug or a good notebook beats a novelty set every time.",
+          "Everything here costs less than $25."
+        ]
+      },
+      {
+        "id": "gifts-under-50",
+        "label": "On a budget",
+        "title": "Great Gifts Under $50",
+        "intro": "Enough to get something that feels special, without overthinking it.",
+        "href": "/guides/gifts-under-50",
+        "readTime": "4 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7",
+          "alt": "Two lit candles in amber glass jars"
+        },
+        "rule": {
+          "maxPrice": 49.99
+        },
+        "body": [
+          "Fifty dollars is a comfortable budget for most occasions. It's enough for something that lasts, but not so much that it feels like a statement.",
+          "Look for gifts that turn an everyday habit into a small treat: a better cup of coffee, a calmer evening or a more fun game night.",
+          "Everything here costs less than $50."
+        ]
+      },
+      {
+        "id": "tech-lovers",
+        "label": "Gift Guide",
+        "title": "Gifts for Tech Lovers",
+        "intro": "For the person who reads reviews for fun and already owns the obvious stuff.",
+        "href": "/guides/tech-lovers",
+        "readTime": "4 min read",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+          "alt": "Vintage computers and keyboards lit in pink and blue"
+        },
+        "rule": {
+          "interests": [
+            "tech"
+          ]
+        },
+        "body": [
+          "Buying tech for someone who loves tech is risky. They know more than you do, and they've probably already picked the exact model they want.",
+          "So don't try to guess the big purchase. Go for the things around it: a nicer desk setup, something with a bit of retro charm, or an accessory they wouldn't buy for themselves.",
+          "These are safe bets for people who love their gadgets."
+        ]
+      }
+    ],
+    "discoveryVideos": [
+      {
+        "id": "retro-desk-setup",
+        "title": "The retro desk setup",
+        "caption": "Old-school tech with a new twist.",
+        "duration": "0:32",
+        "poster": {
+          "src": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+          "alt": "Vintage computers and keyboards lit in pink and blue"
+        }
+      },
+      {
+        "id": "wooden-train",
+        "title": "A train set they'll keep forever",
+        "caption": "Wooden toys that last.",
+        "duration": "0:21",
+        "poster": {
+          "src": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1",
+          "alt": "A wooden toy train on a wooden track"
+        }
+      },
+      {
+        "id": "headphones",
+        "title": "Sound, the vintage way",
+        "caption": "Headphones with style.",
+        "duration": "0:18",
+        "poster": {
+          "src": "https://images.unsplash.com/photo-1484704849700-f032a568e944",
+          "alt": "Close-up of retro headphones on a table"
+        }
+      },
+      {
+        "id": "camping",
+        "title": "Weekend camp essentials",
+        "caption": "For the outdoorsy one.",
+        "duration": "0:45",
+        "poster": {
+          "src": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4",
+          "alt": "View of a forest from inside an open tent"
+        }
+      },
+      {
+        "id": "self-care",
+        "title": "A self-care shelf glow up",
+        "caption": "Little luxuries.",
+        "duration": "0:27",
+        "poster": {
+          "src": "https://images.unsplash.com/photo-1612817288484-6f916006741a",
+          "alt": "Skincare bottles and stones arranged on a white surface"
+        }
+      }
+    ],
+    "heroSlides": [
+      {
+        "id": "holiday",
+        "eyebrow": "The holiday gift edit",
+        "titleTop": "Find something",
+        "titleBottom": "they'll never expect",
+        "text": "Thoughtful, unusual, and genuinely interesting gifts for the people who matter.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1543589077-47d81606c1bf",
+          "alt": "Red knitted stockings and ornaments hanging on a Christmas tree"
+        },
+        "primaryLink": {
+          "label": "explore gifts",
+          "href": "#trending"
+        },
+        "secondaryLink": {
+          "label": "find a gift",
+          "href": "#who-for"
+        },
+        "color": "forest"
+      },
+      {
+        "id": "home-cooks",
+        "eyebrow": "Clever kitchen finds",
+        "titleTop": "Made for",
+        "titleBottom": "the home cook",
+        "text": "Smart tools and little luxuries for the person who's always in the kitchen.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+          "alt": "A couple laughing while cooking together in a bright kitchen"
+        },
+        "primaryLink": {
+          "label": "shop kitchen gifts",
+          "href": "/unique-finds/home"
+        },
+        "secondaryLink": {
+          "label": "see all gadgets",
+          "href": "/unique-finds/gadgets"
+        },
+        "color": "clay"
+      },
+      {
+        "id": "secret-santa",
+        "eyebrow": "Secret Santa, sorted",
+        "titleTop": "Small gifts,",
+        "titleBottom": "big surprises",
+        "text": "Fun little finds under $25 that feel anything but small.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70",
+          "alt": "A group of friends cheering with their arms in the air"
+        },
+        "primaryLink": {
+          "label": "shop under $25",
+          "href": "/guides/gifts-under-25"
+        },
+        "secondaryLink": {
+          "label": "secret santa ideas",
+          "href": "/occasions/secret-santa"
+        },
+        "color": "ink"
+      }
+    ],
+    "heroShortcuts": [
+      {
+        "label": "Christmas gifts",
+        "href": "/occasions/christmas",
+        "image": "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7"
+      },
+      {
+        "label": "for him",
+        "href": "/gifts/for-him",
+        "image": "https://images.unsplash.com/photo-1627123424574-724758594e93"
+      },
+      {
+        "label": "for her",
+        "href": "/gifts/for-her",
+        "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a"
+      },
+      {
+        "label": "Secret Santa",
+        "href": "/occasions/secret-santa",
+        "image": "https://images.unsplash.com/photo-1607344645866-009c320b63e0"
+      },
+      {
+        "label": "clever gadgets",
+        "href": "/unique-finds/gadgets",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90"
+      },
+      {
+        "label": "new",
+        "href": "/discover/new",
+        "image": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f"
+      }
+    ],
+    "finderPeople": [
+      {
+        "id": "for-mom",
+        "label": "mom",
+        "phrase": "your mom",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1531983412531-1f49a365ffed",
+          "alt": "A mother laughing and hugging her young son on a sunny beach"
+        },
+        "audiences": [
+          "women",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-dad",
+        "label": "dad",
+        "phrase": "your dad",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7",
+          "alt": "Friends relaxing outside a vintage silver camper at dusk"
+        },
+        "audiences": [
+          "men",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-wife",
+        "label": "wife",
+        "phrase": "your wife",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1519741497674-611481863552",
+          "alt": "A bride holding a bouquet of white flowers in soft golden light"
+        },
+        "audiences": [
+          "women",
+          "couples",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-husband",
+        "label": "husband",
+        "phrase": "your husband",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc",
+          "alt": "A bride and groom celebrating outdoors with balloons and guests"
+        },
+        "audiences": [
+          "men",
+          "couples",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-girlfriend",
+        "label": "girlfriend",
+        "phrase": "your girlfriend",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2",
+          "alt": "Two hands making a heart shape against a golden sunset"
+        },
+        "audiences": [
+          "women",
+          "couples",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-boyfriend",
+        "label": "boyfriend",
+        "phrase": "your boyfriend",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954",
+          "alt": "A couple riding bikes and holding hands against a sunset sky"
+        },
+        "audiences": [
+          "men",
+          "couples",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-her",
+        "label": "her",
+        "phrase": "her",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1530021232320-687d8e3dba54",
+          "alt": "A woman with wavy hair smiling beside a glowing neon sign"
+        },
+        "audiences": [
+          "women",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-him",
+        "label": "him",
+        "phrase": "him",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1551632811-561732d1e306",
+          "alt": "Two hikers with backpacks walking a trail towards snowy mountains"
+        },
+        "audiences": [
+          "men",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-friends",
+        "label": "a friend",
+        "phrase": "a friend",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac",
+          "alt": "A group of friends sitting arm in arm looking out over the sea"
+        },
+        "audiences": [
+          "everyone",
+          "women",
+          "men"
+        ]
+      },
+      {
+        "id": "for-couples",
+        "label": "a couple",
+        "phrase": "a couple",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+          "alt": "A couple laughing while cooking together in a bright kitchen"
+        },
+        "audiences": [
+          "couples",
+          "everyone"
+        ]
+      },
+      {
+        "id": "for-kids",
+        "label": "a kid",
+        "phrase": "a kid",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9",
+          "alt": "A smiling young girl with paint on her face and a yellow bow in her hair"
+        },
+        "audiences": [
+          "kids"
+        ]
+      },
+      {
+        "id": "has-everything",
+        "label": "has everything",
+        "phrase": "someone who has everything",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a",
+          "alt": "A pile of wrapped presents with red paper and white string"
+        },
+        "audiences": [
+          "everyone",
+          "men",
+          "women",
+          "couples"
+        ]
+      },
+      {
+        "id": "co-worker",
+        "label": "a co-worker",
+        "phrase": "a co-worker",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+          "alt": "People working at desks in a bright open-plan office"
+        },
+        "audiences": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "myself",
+        "label": "myself",
+        "phrase": "you",
+        "photo": {
+          "src": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f",
+          "alt": "A kraft gift box tied with a pink ribbon"
+        },
+        "audiences": []
+      }
+    ],
+    "finderBudgets": [
+      {
+        "id": "25",
+        "label": "Under $25",
+        "note": "Stocking stuffers & little treats",
+        "max": 25
+      },
+      {
+        "id": "50",
+        "label": "Under $50",
+        "note": "The sweet spot",
+        "max": 50
+      },
+      {
+        "id": "100",
+        "label": "Under $100",
+        "note": "Something special",
+        "max": 100
+      },
+      {
+        "id": "any",
+        "label": "No limit",
+        "note": "Go big, we won't judge"
+      }
+    ],
+    "sections": {
+      "gifts": {
+        "basePath": "/gifts",
+        "parent": {
+          "label": "Gifts by recipient",
+          "href": "/gifts/recipient"
+        },
+        "pillsTitle": "shop by recipient",
+        "relatedLead": "Shopping for someone else? Try"
+      },
+      "occasions": {
+        "basePath": "/occasions",
+        "parent": {
+          "label": "Gifts by occasion",
+          "href": "/gifts/occasion"
+        },
+        "pillsTitle": "shop by occasion",
+        "relatedLead": "Got another occasion coming up? Try"
+      },
+      "discover": {
+        "basePath": "/discover",
+        "parent": {
+          "label": "Discover",
+          "href": "/discover"
+        },
+        "pillsTitle": "more to discover",
+        "relatedLead": "Want more ideas? Try"
+      },
+      "unique-finds": {
+        "basePath": "/unique-finds",
+        "parent": {
+          "label": "Unique finds",
+          "href": "/unique-finds"
+        },
+        "pillsTitle": "more unique finds",
+        "relatedLead": "Looking for something different? Try"
+      }
+    },
+    "similarCategories": [
+      {
+        "label": "christmas gifts",
+        "href": "/occasions/christmas"
+      },
+      {
+        "label": "birthday gifts",
+        "href": "/occasions/birthdays"
+      },
+      {
+        "label": "gifts under $25",
+        "href": "/discover/under-25"
+      },
+      {
+        "label": "gifts under $50",
+        "href": "/discover/under-50"
+      },
+      {
+        "label": "unusual gadgets",
+        "href": "/unique-finds/gadgets"
+      },
+      {
+        "label": "most-loved gifts",
+        "href": "/discover/most-loved"
+      }
+    ]
+  }
+}
